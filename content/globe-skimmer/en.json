@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Globe skimmer",
+    "scientificName": "Pantala flavescens",
+    "tagline": "The dragonfly that flies furthest of all"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-wings",
+      "title": "Look at the wings",
+      "hint": "Turn it round",
+      "message": "Its hindwings are unusually broad, so it can glide on the wind.",
+      "subtitle": "Hello! This is a globe skimmer. Its broad hindwings let it ride the wind."
+    },
+    {
+      "id": "long-journey",
+      "title": "How far it goes",
+      "hint": "Tap \"Got it\"",
+      "message": "Some globe skimmers cross whole oceans — the furthest-flying insect on Earth.",
+      "subtitle": "Globe skimmers ride the wind across the sea. No insect travels further."
+    },
+    {
+      "id": "protect-water",
+      "title": "How to help",
+      "hint": "Remember: keep the water clean",
+      "message": "Its young grow up underwater, and they need it clean.",
+      "subtitle": "Baby dragonflies live in water. Clean water lets them grow. Thank you!"
+    }
+  ]
+}

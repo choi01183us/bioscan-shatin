@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Asian mantis",
+    "scientificName": "Hierodula patellifera",
+    "tagline": "An ambush hunter of Hong Kong gardens"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-arms",
+      "title": "Look at the front legs",
+      "hint": "Turn it round",
+      "message": "Its front legs are lined with spines — once they close, nothing escapes.",
+      "subtitle": "Hello! This is an Asian mantis. Its spiny front legs snap shut and hold on tight."
+    },
+    {
+      "id": "look-head",
+      "title": "Look at the head",
+      "hint": "Turn it round",
+      "message": "It can turn its head almost right round to look behind without moving.",
+      "subtitle": "A mantis can swivel its head. It sees behind itself without turning its body."
+    },
+    {
+      "id": "protect-garden",
+      "title": "How to help",
+      "hint": "Remember: no bug spray",
+      "message": "A mantis eats pests — it is the garden’s helper.",
+      "subtitle": "Mantises eat the pests in a garden. Skipping the bug spray lets them stay. Thank you!"
+    }
+  ]
+}

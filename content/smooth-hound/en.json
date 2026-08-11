@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Spotless smooth-hound",
+    "scientificName": "Mustelus griseus",
+    "tagline": "A small shark of Hong Kong waters"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-size",
+      "title": "See how big it is",
+      "hint": "Turn it round",
+      "message": "This is a small shark — about as tall as you are.",
+      "subtitle": "Hello! This is a smooth-hound. It is small — about as long as a child is tall."
+    },
+    {
+      "id": "bottom-feeder",
+      "title": "What it eats",
+      "hint": "Tap \"Got it\"",
+      "message": "It hunts crabs and prawns on the seabed, and does not attack people.",
+      "subtitle": "Smooth-hounds hunt crabs and prawns on the seabed. They do not attack people."
+    },
+    {
+      "id": "protect-sea",
+      "title": "How to help",
+      "hint": "Remember: keep the sea clean",
+      "message": "A clean seabed is where it finds its food.",
+      "subtitle": "A clean seabed with crabs and prawns is where it feeds. Thank you!"
+    }
+  ]
+}

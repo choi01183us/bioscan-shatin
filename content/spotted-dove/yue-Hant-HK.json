@@ -1,0 +1,80 @@
+{
+  "locale": "yue-Hant-HK",
+  "displayName": "廣東話",
+  "species": {
+    "commonName": "珠頸斑鳩",
+    "scientificName": "Spilopelia chinensis",
+    "tagline": "成日喺樓下「咕咕」叫嗰隻"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "返首頁",
+    "replay": "再講一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開聲",
+    "subtitlesOn": "開字幕",
+    "subtitlesOff": "關字幕",
+    "frontView": "返正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮細",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "㩒住講嘢",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白喇！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {
+    "head": "頭",
+    "eye": "眼",
+    "neckPatch": "珠頸",
+    "wing": "翅膀",
+    "tail": "尾",
+    "leg": "腳"
+  },
+  "tasks": [
+    {
+      "id": "find-pearls",
+      "title": "搵珠仔頸",
+      "hint": "㩒下佢個頸",
+      "message": "佢頸側有黑底白點，好似戴住串珠鏈。",
+      "subtitle": "你好！呢隻係珠頸斑鳩。佢頸側有黑底白點，好似戴住串珠。"
+    },
+    {
+      "id": "find-tail",
+      "title": "搵條長尾",
+      "hint": "㩒下佢條尾",
+      "message": "佢條尾好長，飛起身嗰陣會攤開，見到白邊。",
+      "subtitle": "佢條尾好長。飛起身攤開嗰陣，你會見到尾邊係白色嘅。"
+    },
+    {
+      "id": "real-photo",
+      "title": "睇真嘅斑鳩",
+      "hint": "撳右邊張生態照",
+      "message": "真嘅珠頸斑鳩，串珠一粒粒好清楚。",
+      "subtitle": "呢張係真嘅珠頸斑鳩相。拉一拉條桿，數下有幾多粒珠。"
+    },
+    {
+      "id": "protect-quiet",
+      "title": "見到要點做",
+      "hint": "記住：唔好追佢",
+      "message": "佢好怕嘈。慢慢行過，佢就唔會飛走。",
+      "subtitle": "斑鳩好怕嘈同人追。我哋靜靜行過，就睇得耐啲。多謝你！"
+    }
+  ]
+}

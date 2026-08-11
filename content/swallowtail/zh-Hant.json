@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "柑橘鳳蝶",
+    "scientificName": "Papilio xuthus",
+    "tagline": "小時候吃柑橘樹葉長大"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-tails",
+      "title": "找尾突",
+      "hint": "轉一轉牠",
+      "message": "牠後翅有兩條像尾巴的尖突，所以叫「鳳蝶」。",
+      "subtitle": "你好！這是柑橘鳳蝶。牠後翅有兩條像尾巴的尖突。"
+    },
+    {
+      "id": "citrus-leaves",
+      "title": "牠小時候吃什麼",
+      "hint": "按「知道了」",
+      "message": "牠的毛蟲吃柑橘樹葉長大，所以叫柑橘鳳蝶。",
+      "subtitle": "牠小時候是毛蟲，專吃柑橘樹葉。所以柑橘樹上常找到牠。"
+    },
+    {
+      "id": "protect-trees",
+      "title": "幫助牠",
+      "hint": "記住：留下那棵樹",
+      "message": "有柑橘樹，才有柑橘鳳蝶。",
+      "subtitle": "沒有柑橘樹，牠的毛蟲就沒東西吃。留下那棵樹很重要。謝謝你！"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+<svg viewBox="0 0 400 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Spotted dove">
+  <!--
+    Original illustration (CC0) for the BioScan Lab exhibit — a stylised spotted
+    dove (Spilopelia chinensis), the dove heard cooing in every Hong Kong
+    housing estate. Each body part is a <g id="…"> group so the 2D anatomy layer
+    can highlight / label it (ids match anatomyRegistry).
+
+    The 珠頸 — the black patch of white "pearls" on the side of the neck — is the
+    bird's name and its field mark, so it gets its own selectable part.
+  -->
+  <defs>
+    <linearGradient id="dvBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d3a894" />
+      <stop offset="60%" stop-color="#c2937d" />
+      <stop offset="100%" stop-color="#ab7d68" />
+    </linearGradient>
+    <linearGradient id="dvWing" x1="10%" y1="0%" x2="90%" y2="100%">
+      <stop offset="0%" stop-color="#a08a6e" />
+      <stop offset="60%" stop-color="#8a755a" />
+      <stop offset="100%" stop-color="#6f5c45" />
+    </linearGradient>
+  </defs>
+
+  <g id="branch">
+    <path d="M 34 314 C 130 304 250 308 366 298" fill="none" stroke="#8a7457"
+          stroke-width="14" stroke-linecap="round" />
+    <g fill="#9aab7d" opacity="0.85">
+      <ellipse cx="70" cy="300" rx="16" ry="8" transform="rotate(-14 70 300)" />
+      <ellipse cx="104" cy="306" rx="12" ry="7" transform="rotate(6 104 306)" />
+    </g>
+  </g>
+
+  <g id="tail">
+    <path d="M 252 226 C 306 250 344 276 372 300" fill="none" stroke="#8a755a"
+          stroke-width="22" stroke-linecap="round" />
+    <path d="M 296 250 C 330 268 352 284 368 298" fill="none" stroke="#f2ece2"
+          stroke-width="4" stroke-linecap="round" opacity="0.75" />
+  </g>
+
+  <g id="body">
+    <ellipse cx="198" cy="204" rx="76" ry="60" fill="url(#dvBody)" />
+    <ellipse cx="168" cy="226" rx="44" ry="34" fill="#e0c0aa" opacity="0.55" />
+  </g>
+
+  <g id="wing">
+    <path d="M 178 168 C 232 166 272 192 276 234 C 246 250 198 246 168 220 Z"
+          fill="url(#dvWing)" />
+    <!-- Scalloped feather edges: the dove's back reads as rows of scales. -->
+    <g stroke="#5f4e3a" stroke-width="2.2" opacity="0.5" fill="none">
+      <path d="M 196 182 C 222 186 244 200 256 220" />
+      <path d="M 188 198 C 214 202 236 214 250 232" />
+      <path d="M 182 214 C 206 218 226 228 240 242" />
+    </g>
+  </g>
+
+  <g id="head">
+    <circle cx="136" cy="140" r="38" fill="#b7a9a0" />
+    <path d="M 128 108 C 148 100 168 106 176 122 C 160 114 142 114 128 122 Z"
+          fill="#c9bdb4" opacity="0.9" />
+  </g>
+
+  <g id="neck-patch">
+    <!-- 珠頸: black collar sown with white pearls. -->
+    <path d="M 158 152 C 186 148 202 166 200 194 C 178 200 158 188 152 168 Z"
+          fill="#2b2622" />
+    <g fill="#fdfdf8">
+      <circle cx="168" cy="164" r="4.2" /><circle cx="182" cy="160" r="4.2" />
+      <circle cx="192" cy="172" r="4.2" /><circle cx="176" cy="176" r="4.2" />
+      <circle cx="162" cy="180" r="4" /><circle cx="188" cy="186" r="4" />
+      <circle cx="172" cy="190" r="3.6" />
+    </g>
+  </g>
+
+  <g id="beak">
+    <path d="M 100 140 L 66 148 L 100 157 Z" fill="#3a352f" />
+  </g>
+
+  <g id="eye">
+    <circle cx="126" cy="134" r="9" fill="#1a1512" />
+    <circle cx="126" cy="134" r="9" fill="none" stroke="#c8563f" stroke-width="2.4" />
+    <circle cx="123" cy="131" r="2.8" fill="#ffffff" opacity="0.9" />
+  </g>
+
+  <g id="leg">
+    <g stroke="#c4645c" stroke-width="5.5" stroke-linecap="round" fill="none">
+      <path d="M 190 262 L 192 298" />
+      <path d="M 218 258 L 222 296" />
+      <path d="M 192 298 L 176 306 M 192 298 L 206 306" />
+      <path d="M 222 296 L 208 305 M 222 296 L 236 304" />
+    </g>
+  </g>
+</svg>

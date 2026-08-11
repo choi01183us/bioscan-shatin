@@ -1,0 +1,18 @@
+# 生物掃描實驗室 · BioScan Lab — 沙田生物多樣性展品
+
+呢個 repo **淨係放砌好嘅網站檔案**（`vite build` 嘅輸出），用嚟喺 GitHub Pages 免費寄存。
+
+- 原始碼唔喺呢度：喺本機 `gravity-park-live-timing-centre/beetle-scanner-exhibit/`。
+- **唔好手改呢度啲檔案** — 下次重新部署會覆蓋晒。
+- 更新方法：喺原始碼跑 `npm run build`，將 `dist/` 嘅內容覆蓋落呢度，再 commit、push。
+
+## 點解要分開一個 repo
+
+原始碼放喺一個同「轆轆小車大挑戰」計時系統共用嘅 repo 入面，嗰度有
+`data/students.csv`、`data/results.csv` — 真實活動嘅班別、學號同成績。
+免費嘅 GitHub Pages **一定要 public repo**，所以嗰個 repo 唔可以推上嚟。
+呢度只有展品網站本身，冇任何學生資料。
+
+## 內容授權
+
+展品用咗 CC0 / CC BY 嘅 3D 掃描同相片，逐項出處見原始碼嘅 `PHOTO_CREDITS.md`。

@@ -1,0 +1,79 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Scarlet skimmer",
+    "scientificName": "Crocothemis servilia",
+    "tagline": "The red dragonfly of Shing Mun River"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {
+    "eye": "Eye",
+    "wing": "Wing",
+    "thorax": "Thorax",
+    "abdomen": "Abdomen",
+    "leg": "Leg"
+  },
+  "tasks": [
+    {
+      "id": "find-eyes",
+      "title": "Find the big eyes",
+      "hint": "Tap its eyes",
+      "message": "A dragonfly’s eyes are huge — they wrap around its head so it sees almost everywhere.",
+      "subtitle": "Hello! This is a scarlet skimmer. Its eyes are so big it can see behind itself."
+    },
+    {
+      "id": "find-wings",
+      "title": "Find the wings",
+      "hint": "Tap its wings",
+      "message": "It has four wings that move separately, so it can hover in one spot.",
+      "subtitle": "A dragonfly has four wings. Moving them separately lets it hover in mid-air."
+    },
+    {
+      "id": "real-photo",
+      "title": "See the real one",
+      "hint": "Tap the photo on the right",
+      "message": "A real scarlet skimmer is orange-red all over, even its eyes.",
+      "subtitle": "This is a photo of a real scarlet skimmer. Drag the slider to compare."
+    },
+    {
+      "id": "protect-water",
+      "title": "Where it grows up",
+      "hint": "Remember: keep the water clean",
+      "message": "Baby dragonflies grow up underwater — they need clean water to live in.",
+      "subtitle": "Dragonflies live underwater when they are young. Keeping the river clean helps them grow. Thank you!"
+    }
+  ]
+}

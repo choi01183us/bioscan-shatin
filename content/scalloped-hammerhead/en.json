@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Scalloped hammerhead",
+    "scientificName": "Sphyrna lewini",
+    "tagline": "The shark with a hammer for a head"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-head",
+      "title": "Look at the head",
+      "hint": "Turn it round",
+      "message": "Its head is spread wide like a hammer, with an eye at each end.",
+      "subtitle": "Hello! This is a scalloped hammerhead. Its head spreads wide, with an eye at each tip."
+    },
+    {
+      "id": "wide-eyes",
+      "title": "Why so wide",
+      "hint": "Tap \"Got it\"",
+      "message": "Eyes that far apart give it a much wider view of the sea.",
+      "subtitle": "With its eyes so far apart it can see across a very wide space at once."
+    },
+    {
+      "id": "protect-sea",
+      "title": "How to help",
+      "hint": "Remember: keep the sea clean",
+      "message": "Clean seas with fish in them are the only place a shark can live.",
+      "subtitle": "Sharks need clean water and fish to eat. Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "金斑蝶",
+    "scientificName": "Danaus chrysippus",
+    "tagline": "香港花園常見的橙色蝴蝶"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {
+    "forewing": "前翅",
+    "hindwing": "後翅",
+    "head": "頭",
+    "antenna": "觸角",
+    "abdomen": "腹部"
+  },
+  "tasks": [
+    {
+      "id": "find-wings",
+      "title": "找翅膀",
+      "hint": "按按看牠的前翅和後翅",
+      "message": "蝴蝶有一對前翅和一對後翅。",
+      "subtitle": "你好！這是金斑蝶。牠有一對前翅和一對後翅。"
+    },
+    {
+      "id": "find-antenna",
+      "title": "找觸角",
+      "hint": "按按頭上面兩條觸角",
+      "message": "觸角幫蝴蝶聞味和感覺。",
+      "subtitle": "看看蝴蝶頭上面，有兩條細細的觸角，幫牠聞花香。"
+    },
+    {
+      "id": "find-body",
+      "title": "找身體",
+      "hint": "按按牠中間的身體和頭",
+      "message": "身體中間是腹部，前面是頭。",
+      "subtitle": "蝴蝶中間是牠的身體，前面有個小小的頭。"
+    },
+    {
+      "id": "colors",
+      "title": "看顏色",
+      "hint": "看看橙色、黑色和白色斑點",
+      "message": "金斑蝶是橙色、黑色和白色。",
+      "subtitle": "金斑蝶很漂亮，牠是橙色、黑色，還有白色斑點。"
+    },
+    {
+      "id": "protect-garden",
+      "title": "保護花園",
+      "hint": "幫蝴蝶守護花園",
+      "message": "花園有花，蝴蝶才有東西吃。",
+      "subtitle": "金斑蝶在花園採花蜜。我們多種點花，牠們才有得吃。謝謝你！"
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "species": [
+    {
+      "id": "beetle",
+      "order": 1,
+      "emoji": "🪲",
+      "view": "3d",
+      "model": "assets/models/xylotrupes_gideon.glb",
+      "anatomy": "beetle",
+      "name": {
+        "yue-Hant-HK": "姬兜",
+        "zh-Hant": "姬兜",
+        "en": "Rhinoceros beetle"
+      },
+      "tagline": {
+        "yue-Hant-HK": "香港樹林裡嘅大力士",
+        "zh-Hant": "香港樹林裡的大力士",
+        "en": "A strong beetle of Hong Kong's woodlands"
+      },
+      "sighting": "sometimes",
+      "credit": "3D 模型 / model: “Xylotrupes gideon” by dendeba · CC BY 4.0",
+      "scene": "woodland",
+      "rotateSpeed": 0.55
+    },
+    {
+      "id": "horseshoe-crab",
+      "order": 2,
+      "emoji": "🦀",
+      "view": "3d",
+      "model": "assets/models/tachypleus_anatomy_sample.glb",
+      "anatomy": "horseshoe-crab",
+      "name": {
+        "yue-Hant-HK": "中國鱟",
+        "zh-Hant": "中國鱟",
+        "en": "Chinese horseshoe crab"
+      },
+      "tagline": {
+        "yue-Hant-HK": "香港泥灘嘅活化石",
+        "zh-Hant": "香港泥灘的活化石",
+        "en": "A living fossil of Hong Kong's mudflats"
+      },
+      "sighting": "sometimes",
+      "scene": "mudflat",
+      "rotateSpeed": 0.3,
+      "credit": "構造示範模型 / anatomy demo model · CC0 · 真實相片見「生態照」",
+      "photos": [
+        {
+          "src": "assets/photos/horseshoe-crab-1.jpg",
+          "credit": "Agnes Trekker · CC0",
+          "caption": {
+            "yue-Hant-HK": "野外嘅中國鱟，成身泥沙",
+            "zh-Hant": "野外的中國鱟，全身泥沙",
+            "en": "A wild Chinese horseshoe crab, covered in sand"
+          }
+        },
+        {
+          "src": "assets/photos/horseshoe-crab-2.jpg",
+          "credit": "Agnes Trekker · CC0",
+          "caption": {
+            "yue-Hant-HK": "望真啲：殼下面嗰堆腳",
+            "zh-Hant": "仔細看：殼下面的腳",
+            "en": "Look closely: the legs tucked under the shell"
+          }
+        }
+      ],
+      "hidden": true
+    },
+    {
+      "id": "butterfly",
+      "order": 3,
+      "emoji": "🦋",
+      "view": "2d",
+      "illustration": "assets/illustrations/butterfly.svg",
+      "anatomy": "butterfly",
+      "name": {
+        "yue-Hant-HK": "金斑蝶",
+        "zh-Hant": "金斑蝶",
+        "en": "Plain tiger butterfly"
+      },
+      "tagline": {
+        "yue-Hant-HK": "香港花園常見嘅橙色蝴蝶",
+        "zh-Hant": "香港花園常見的橙色蝴蝶",
+        "en": "A common orange butterfly in Hong Kong gardens"
+      },
+      "sighting": "common",
+      "credit": "原創插圖 / original illustration · CC0",
+      "scene": "garden",
+      "rotateSpeed": 0.5,
+      "photos": [
+        {
+          "src": "assets/photos/butterfly-1.jpg",
+          "credit": "Jeevan Jose · CC BY-SA 4.0",
+          "caption": {
+            "yue-Hant-HK": "真嘅金斑蝶（雄）",
+            "zh-Hant": "真實的金斑蝶（雄）",
+            "en": "A real plain tiger butterfly (male)"
+          }
+        },
+        {
+          "src": "assets/photos/butterfly-2.jpg",
+          "credit": "Jeevan Jose · CC BY-SA 4.0",
+          "caption": {
+            "yue-Hant-HK": "真嘅金斑蝶（雌）",
+            "zh-Hant": "真實的金斑蝶（雌）",
+            "en": "A real plain tiger butterfly (female)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "green-snake",
+      "order": 4,
+      "emoji": "🐍",
+      "view": "2d",
+      "illustration": "assets/illustrations/green-snake.svg",
+      "anatomy": "green-snake",
+      "name": {
+        "yue-Hant-HK": "翠青蛇",
+        "zh-Hant": "翠青蛇",
+        "en": "Greater green snake"
+      },
+      "tagline": {
+        "yue-Hant-HK": "香港樹林裡嘅溫馴綠色蛇",
+        "zh-Hant": "香港樹林裡溫馴的綠色蛇",
+        "en": "A gentle green snake of Hong Kong's woodlands"
+      },
+      "sighting": "sometimes",
+      "credit": "原創插圖 / original illustration · CC0",
+      "scene": "woodland",
+      "rotateSpeed": 0.4,
+      "photos": [
+        {
+          "src": "assets/photos/green-snake-1.jpg",
+          "credit": "Johnsonwang6688 · CC BY 4.0",
+          "caption": {
+            "yue-Hant-HK": "真嘅翠青蛇，成身翠綠色",
+            "zh-Hant": "真實的翠青蛇，全身翠綠色",
+            "en": "A real greater green snake, bright green all over"
+          }
+        },
+        {
+          "src": "assets/photos/green-snake-2.jpg",
+          "credit": "Johnsonwang6688 · CC BY 4.0",
+          "caption": {
+            "yue-Hant-HK": "望真啲：大大隻眼同分叉嘅脷",
+            "zh-Hant": "仔細看：大眼睛和分叉的舌頭",
+            "en": "Look closely: the big eye and the forked tongue"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dragonfly",
+      "order": 5,
+      "emoji": "🦟",
+      "view": "2d",
+      "illustration": "assets/illustrations/dragonfly.svg",
+      "anatomy": "dragonfly",
+      "name": {
+        "yue-Hant-HK": "紅蜻蜓",
+        "zh-Hant": "紅蜻蜓",
+        "en": "Scarlet skimmer"
+      },
+      "tagline": {
+        "yue-Hant-HK": "城門河邊常見嘅紅色蜻蜓",
+        "zh-Hant": "城門河邊常見的紅色蜻蜓",
+        "en": "The red dragonfly of Shing Mun River"
+      },
+      "sighting": "common",
+      "credit": "原創插圖 / original illustration · CC0",
+      "scene": "garden",
+      "rotateSpeed": 0.5,
+      "photos": [
+        {
+          "src": "assets/photos/dragonfly-1.jpg",
+          "credit": "Jeevan Jose · CC0",
+          "caption": {
+            "yue-Hant-HK": "真嘅紅蜻蜓（雄），成身橙紅色",
+            "zh-Hant": "真實的紅蜻蜓（雄），全身橙紅色",
+            "en": "A real scarlet skimmer (male), orange-red all over"
+          }
+        },
+        {
+          "src": "assets/photos/dragonfly-2.jpg",
+          "credit": "Jeevan Jose · CC0",
+          "caption": {
+            "yue-Hant-HK": "雌嘅係金黃色，翅膀帶綠",
+            "zh-Hant": "雌的是金黃色，翅膀帶綠",
+            "en": "The female is golden, with green-tinted wings"
+          }
+        }
+      ]
+    },
+    {
+      "id": "common-mormon",
+      "order": 6,
+      "emoji": "🦋",
+      "view": "3d",
+      "model": "assets/models/papilio_polytes.glb",
+      "anatomy": "common-mormon",
+      "name": {
+        "yue-Hant-HK": "玉帶鳳蝶",
+        "zh-Hant": "玉帶鳳蝶",
+        "en": "Common mormon"
+      },
+      "tagline": {
+        "yue-Hant-HK": "香港濕地公園最常見嘅鳳蝶",
+        "zh-Hant": "香港濕地公園最常見的鳳蝶",
+        "en": "The commonest swallowtail at HK Wetland Park"
+      },
+      "sighting": "common",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "garden",
+      "rotateSpeed": 0.45
+    },
+    {
+      "id": "grey-mullet",
+      "order": 7,
+      "emoji": "🐟",
+      "view": "3d",
+      "model": "assets/models/mugil_cephalus.glb",
+      "anatomy": "grey-mullet",
+      "name": {
+        "yue-Hant-HK": "烏頭",
+        "zh-Hant": "烏頭",
+        "en": "Flathead grey mullet"
+      },
+      "tagline": {
+        "yue-Hant-HK": "城門河口最常見嘅魚",
+        "zh-Hant": "城門河口最常見的魚",
+        "en": "The commonest fish of the Shing Mun River mouth"
+      },
+      "sighting": "common",
+      "credit": "3D 掃描 / scan: Jessica H. Arbour (MTSU) · CC BY 4.0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.4
+    },
+    {
+      "id": "bulbul",
+      "order": 8,
+      "emoji": "🐦",
+      "view": "2d",
+      "illustration": "assets/illustrations/bulbul.svg",
+      "anatomy": "bulbul",
+      "name": {
+        "yue-Hant-HK": "白頭鵯",
+        "zh-Hant": "白頭鵯",
+        "en": "Light-vented bulbul"
+      },
+      "tagline": {
+        "yue-Hant-HK": "屋邨同公園日日見到嘅雀仔",
+        "zh-Hant": "屋邨和公園天天見到的鳥",
+        "en": "The bird you see every day in estates and parks"
+      },
+      "sighting": "common",
+      "credit": "原創插圖 / original illustration · CC0",
+      "scene": "garden",
+      "rotateSpeed": 0.5,
+      "photos": [
+        {
+          "src": "assets/photos/bulbul-1.jpg",
+          "credit": "Noel Reynolds · CC BY 2.0",
+          "caption": {
+            "yue-Hant-HK": "真嘅白頭鵯，頭後撮白毛好清楚",
+            "zh-Hant": "真實的白頭鵯，頭後白毛清楚",
+            "en": "A real bulbul — the white nape patch is clear"
+          }
+        },
+        {
+          "src": "assets/photos/bulbul-2.jpg",
+          "credit": "Noel Reynolds · CC BY 2.0",
+          "caption": {
+            "yue-Hant-HK": "全身同長尾",
+            "zh-Hant": "全身和長尾",
+            "en": "The whole bird, tail spread"
+          }
+        }
+      ]
+    },
+    {
+      "id": "spotted-dove",
+      "order": 9,
+      "emoji": "🕊️",
+      "view": "2d",
+      "illustration": "assets/illustrations/spotted-dove.svg",
+      "anatomy": "spotted-dove",
+      "name": {
+        "yue-Hant-HK": "珠頸斑鳩",
+        "zh-Hant": "珠頸斑鳩",
+        "en": "Spotted dove"
+      },
+      "tagline": {
+        "yue-Hant-HK": "成日喺樓下「咕咕」叫嗰隻",
+        "zh-Hant": "常在樓下「咕咕」叫的那隻",
+        "en": "The one cooing downstairs every morning"
+      },
+      "sighting": "common",
+      "credit": "原創插圖 / original illustration · CC0",
+      "scene": "garden",
+      "rotateSpeed": 0.45,
+      "photos": [
+        {
+          "src": "assets/photos/spotted-dove-1.jpg",
+          "credit": "Dinkun Chen · CC BY-SA 4.0",
+          "caption": {
+            "yue-Hant-HK": "真嘅珠頸斑鳩，數下有幾多粒珠",
+            "zh-Hant": "真實的珠頸斑鳩，數數有多少顆珠",
+            "en": "A real spotted dove — count the pearls"
+          }
+        },
+        {
+          "src": "assets/photos/spotted-dove-2.jpg",
+          "credit": "Charles J. Sharp · CC BY-SA 4.0",
+          "caption": {
+            "yue-Hant-HK": "望真啲個頭同珠頸",
+            "zh-Hant": "仔細看頭和珠頸",
+            "en": "A closer look at the head and neck patch"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mantis",
+      "order": 10,
+      "emoji": "🦗",
+      "view": "3d",
+      "model": "assets/models/hierodula_patellifera.glb",
+      "anatomy": "mantis",
+      "name": {
+        "yue-Hant-HK": "廣斧螳",
+        "zh-Hant": "廣斧螳",
+        "en": "Asian mantis"
+      },
+      "tagline": {
+        "yue-Hant-HK": "花園入面嘅伏擊高手",
+        "zh-Hant": "花園裡的伏擊高手",
+        "en": "An ambush hunter of Hong Kong gardens"
+      },
+      "sighting": "common",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "woodland",
+      "rotateSpeed": 0.45
+    },
+    {
+      "id": "mole-cricket",
+      "order": 11,
+      "emoji": "🪳",
+      "view": "3d",
+      "model": "assets/models/gryllotalpa_orientalis.glb",
+      "anatomy": "mole-cricket",
+      "name": {
+        "yue-Hant-HK": "東方螻蛄",
+        "zh-Hant": "東方螻蛄",
+        "en": "Oriental mole cricket"
+      },
+      "tagline": {
+        "yue-Hant-HK": "喺泥入面掘隧道嘅昆蟲",
+        "zh-Hant": "在泥土裡挖隧道的昆蟲",
+        "en": "An insect that digs tunnels underground"
+      },
+      "sighting": "sometimes",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "woodland",
+      "rotateSpeed": 0.5
+    },
+    {
+      "id": "bluebottle",
+      "order": 12,
+      "emoji": "🦋",
+      "view": "3d",
+      "model": "assets/models/graphium_sarpedon.glb",
+      "anatomy": "bluebottle",
+      "name": {
+        "yue-Hant-HK": "青鳳蝶",
+        "zh-Hant": "青鳳蝶",
+        "en": "Common bluebottle"
+      },
+      "tagline": {
+        "yue-Hant-HK": "翼上有一條發光藍帶",
+        "zh-Hant": "翅上有一條發光藍帶",
+        "en": "A swallowtail with a glowing blue band"
+      },
+      "sighting": "common",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "garden",
+      "rotateSpeed": 0.45
+    },
+    {
+      "id": "swallowtail",
+      "order": 13,
+      "emoji": "🦋",
+      "view": "3d",
+      "model": "assets/models/papilio_xuthus.glb",
+      "anatomy": "swallowtail",
+      "name": {
+        "yue-Hant-HK": "柑橘鳳蝶",
+        "zh-Hant": "柑橘鳳蝶",
+        "en": "Asian swallowtail"
+      },
+      "tagline": {
+        "yue-Hant-HK": "細個食柑橘樹葉大",
+        "zh-Hant": "小時候吃柑橘樹葉長大",
+        "en": "Its caterpillars grow up on citrus leaves"
+      },
+      "sighting": "sometimes",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "garden",
+      "rotateSpeed": 0.45
+    },
+    {
+      "id": "globe-skimmer",
+      "order": 14,
+      "emoji": "🌍",
+      "view": "3d",
+      "model": "assets/models/pantala_flavescens.glb",
+      "anatomy": "globe-skimmer",
+      "name": {
+        "yue-Hant-HK": "黃蜻",
+        "zh-Hant": "黃蜻",
+        "en": "Globe skimmer"
+      },
+      "tagline": {
+        "yue-Hant-HK": "飛得最遠嘅蜻蜓",
+        "zh-Hant": "飛得最遠的蜻蜓",
+        "en": "The dragonfly that flies furthest of all"
+      },
+      "sighting": "common",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.5
+    },
+    {
+      "id": "scalloped-hammerhead",
+      "order": 15,
+      "emoji": "🦈",
+      "view": "3d",
+      "model": "assets/models/sphyrna_lewini.glb",
+      "anatomy": "scalloped-hammerhead",
+      "name": {
+        "yue-Hant-HK": "路氏雙髻鯊",
+        "zh-Hant": "路氏雙髻鯊",
+        "en": "Scalloped hammerhead"
+      },
+      "tagline": {
+        "yue-Hant-HK": "個頭好似一把鎚咁",
+        "zh-Hant": "頭部像一把鎚子",
+        "en": "The shark with a hammer for a head"
+      },
+      "sighting": "not-here",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.35
+    },
+    {
+      "id": "smooth-hammerhead",
+      "order": 16,
+      "emoji": "🦈",
+      "view": "3d",
+      "model": "assets/models/sphyrna_zygaena.glb",
+      "anatomy": "smooth-hammerhead",
+      "name": {
+        "yue-Hant-HK": "錘頭雙髻鯊",
+        "zh-Hant": "錘頭雙髻鯊",
+        "en": "Smooth hammerhead"
+      },
+      "tagline": {
+        "yue-Hant-HK": "另一種鎚頭鯊，個頭前面圓啲",
+        "zh-Hant": "另一種鎚頭鯊，頭前緣較圓",
+        "en": "A hammerhead with a smoother head edge"
+      },
+      "sighting": "not-here",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.35
+    },
+    {
+      "id": "smooth-hound",
+      "order": 17,
+      "emoji": "🦈",
+      "view": "3d",
+      "model": "assets/models/mustelus_griseus.glb",
+      "anatomy": "smooth-hound",
+      "name": {
+        "yue-Hant-HK": "灰星鯊",
+        "zh-Hant": "灰星鯊",
+        "en": "Spotless smooth-hound"
+      },
+      "tagline": {
+        "yue-Hant-HK": "香港海域細細條嘅鯊魚",
+        "zh-Hant": "香港海域體型較小的鯊魚",
+        "en": "A small shark of Hong Kong waters"
+      },
+      "sighting": "not-here",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.35
+    }
+  ]
+}

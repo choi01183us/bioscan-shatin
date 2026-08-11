@@ -1,0 +1,74 @@
+<svg viewBox="0 0 400 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Plain tiger butterfly">
+  <!--
+    Original illustration (CC0) for the BioScan Lab exhibit — a stylised plain
+    tiger butterfly (Danaus chrysippus). Each body part is a <g id="…"> group so
+    the 2D anatomy layer can highlight / label it (ids match anatomyRegistry).
+  -->
+  <defs>
+    <radialGradient id="wingFore" cx="45%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#ffb454" />
+      <stop offset="100%" stop-color="#ef8a2b" />
+    </radialGradient>
+    <radialGradient id="wingHind" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#f39b3c" />
+      <stop offset="100%" stop-color="#d9741f" />
+    </radialGradient>
+  </defs>
+
+  <g id="hindwing-left">
+    <ellipse cx="138" cy="262" rx="70" ry="56" fill="url(#wingHind)" stroke="#241206" stroke-width="6" />
+    <circle cx="96" cy="292" r="6" fill="#fff" />
+    <circle cx="120" cy="306" r="6" fill="#fff" />
+    <circle cx="150" cy="310" r="6" fill="#fff" />
+    <circle cx="132" cy="255" r="9" fill="#241206" opacity="0.35" />
+  </g>
+  <g id="hindwing-right">
+    <ellipse cx="262" cy="262" rx="70" ry="56" fill="url(#wingHind)" stroke="#241206" stroke-width="6" />
+    <circle cx="304" cy="292" r="6" fill="#fff" />
+    <circle cx="280" cy="306" r="6" fill="#fff" />
+    <circle cx="250" cy="310" r="6" fill="#fff" />
+    <circle cx="268" cy="255" r="9" fill="#241206" opacity="0.35" />
+  </g>
+
+  <g id="forewing-left">
+    <ellipse cx="122" cy="150" rx="86" ry="62" fill="url(#wingFore)" stroke="#241206" stroke-width="7" />
+    <path d="M70 96 L150 210" stroke="#241206" stroke-width="3" fill="none" opacity="0.5" />
+    <circle cx="58" cy="132" r="7" fill="#fff" />
+    <circle cx="70" cy="168" r="7" fill="#fff" />
+    <circle cx="92" cy="196" r="7" fill="#fff" />
+    <circle cx="98" cy="108" r="7" fill="#fff" />
+  </g>
+  <g id="forewing-right">
+    <ellipse cx="278" cy="150" rx="86" ry="62" fill="url(#wingFore)" stroke="#241206" stroke-width="7" />
+    <path d="M330 96 L250 210" stroke="#241206" stroke-width="3" fill="none" opacity="0.5" />
+    <circle cx="342" cy="132" r="7" fill="#fff" />
+    <circle cx="330" cy="168" r="7" fill="#fff" />
+    <circle cx="308" cy="196" r="7" fill="#fff" />
+    <circle cx="302" cy="108" r="7" fill="#fff" />
+  </g>
+
+  <g id="abdomen">
+    <ellipse cx="200" cy="232" rx="15" ry="92" fill="#2a1c10" />
+    <g stroke="#5a4632" stroke-width="3" opacity="0.7">
+      <line x1="188" y1="200" x2="212" y2="200" />
+      <line x1="188" y1="228" x2="212" y2="228" />
+      <line x1="188" y1="256" x2="212" y2="256" />
+      <line x1="190" y1="284" x2="210" y2="284" />
+    </g>
+  </g>
+
+  <g id="head">
+    <circle cx="200" cy="130" r="17" fill="#2a1c10" />
+    <circle cx="192" cy="126" r="4.5" fill="#e9e2d6" />
+    <circle cx="208" cy="126" r="4.5" fill="#e9e2d6" />
+  </g>
+
+  <g id="antenna-left">
+    <path d="M194 118 C 178 96, 168 84, 162 70" stroke="#2a1c10" stroke-width="4.5" fill="none" stroke-linecap="round" />
+    <circle cx="161" cy="68" r="6" fill="#2a1c10" />
+  </g>
+  <g id="antenna-right">
+    <path d="M206 118 C 222 96, 232 84, 238 70" stroke="#2a1c10" stroke-width="4.5" fill="none" stroke-linecap="round" />
+    <circle cx="239" cy="68" r="6" fill="#2a1c10" />
+  </g>
+</svg>

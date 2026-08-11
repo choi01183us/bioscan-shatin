@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "錘頭雙髻鯊",
+    "scientificName": "Sphyrna zygaena",
+    "tagline": "另一種鎚頭鯊，頭前緣較圓"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "compare-head",
+      "title": "比較兩種鎚頭",
+      "hint": "轉一轉牠",
+      "message": "牠的頭前緣圓滑，另一種中間有凹口。",
+      "subtitle": "這也是鎚頭鯊，但牠的頭前緣圓滑，沒有凹口。"
+    },
+    {
+      "id": "big-swimmer",
+      "title": "牠有多大",
+      "hint": "按「知道了」",
+      "message": "長大後可以像一輛汽車那麼長。",
+      "subtitle": "錘頭雙髻鯊長大後，可以像一輛private car那麼長。"
+    },
+    {
+      "id": "protect-sea",
+      "title": "幫助牠",
+      "hint": "記住：海要乾淨",
+      "message": "海乾淨，牠才有地方住。",
+      "subtitle": "海水乾淨、有魚吃，鯊魚才有地方住。謝謝你！"
+    }
+  ]
+}

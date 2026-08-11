@@ -1,0 +1,88 @@
+<svg viewBox="0 0 400 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Greater green snake">
+  <!--
+    Original illustration (CC0) for the BioScan Lab exhibit — a stylised greater
+    green snake (Ptyas major), a harmless bright-green snake of Hong Kong's
+    woodlands. Each body part is a <g id="…"> group so the 2D anatomy layer can
+    highlight / label it (ids match anatomyRegistry).
+
+    Drawn friendly on purpose: round eye, soft S-curve, no fangs, no strike pose.
+    The lesson is "look, don't touch", not "be afraid".
+  -->
+  <defs>
+    <linearGradient id="snakeSkin" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7ede53" />
+      <stop offset="55%" stop-color="#4fbe33" />
+      <stop offset="100%" stop-color="#2f9422" />
+    </linearGradient>
+    <linearGradient id="snakeHead" x1="10%" y1="0%" x2="90%" y2="100%">
+      <stop offset="0%" stop-color="#8ce85f" />
+      <stop offset="100%" stop-color="#43ad2b" />
+    </linearGradient>
+    <radialGradient id="snakeEye" cx="38%" cy="32%" r="70%">
+      <stop offset="0%" stop-color="#5a4a2a" />
+      <stop offset="45%" stop-color="#1d1a12" />
+      <stop offset="100%" stop-color="#000000" />
+    </radialGradient>
+  </defs>
+
+  <!-- Soft ground shadow so the snake sits in the scene instead of floating. -->
+  <ellipse cx="200" cy="336" rx="132" ry="15" fill="#2f7a2a" opacity="0.16" />
+
+  <g id="tail">
+    <!-- Stepped stroke widths taper the tail; round caps hide the joins. -->
+    <path d="M 96 300 C 74 306 58 312 44 322" fill="none" stroke="url(#snakeSkin)"
+          stroke-width="19" stroke-linecap="round" />
+    <path d="M 66 312 C 56 316 48 320 38 326" fill="none" stroke="#49b62f"
+          stroke-width="11" stroke-linecap="round" />
+    <path d="M 48 320 C 42 323 38 325 31 329" fill="none" stroke="#3fa528"
+          stroke-width="5" stroke-linecap="round" />
+  </g>
+
+  <g id="body">
+    <path d="M 100 299 C 168 306 196 250 166 206 C 136 162 92 138 122 100
+             C 150 64 214 72 250 100"
+          fill="none" stroke="url(#snakeSkin)" stroke-width="34" stroke-linecap="round" />
+    <!-- Belly highlight along the lower edge of each curve. -->
+    <path d="M 104 308 C 158 312 184 262 158 220" fill="none" stroke="#c9f0a4"
+          stroke-width="7" stroke-linecap="round" opacity="0.55" />
+    <path d="M 130 112 C 156 82 208 86 240 108" fill="none" stroke="#c9f0a4"
+          stroke-width="6" stroke-linecap="round" opacity="0.45" />
+    <!-- Scale texture: a few soft flecks, never a busy pattern. -->
+    <g fill="#2f9422" opacity="0.28">
+      <ellipse cx="150" cy="290" rx="7" ry="5" />
+      <ellipse cx="176" cy="252" rx="6" ry="5" />
+      <ellipse cx="163" cy="212" rx="6" ry="5" />
+      <ellipse cx="138" cy="176" rx="6" ry="5" />
+      <ellipse cx="118" cy="136" rx="6" ry="5" />
+      <ellipse cx="140" cy="100" rx="6" ry="5" />
+      <ellipse cx="180" cy="84" rx="6" ry="5" />
+      <ellipse cx="220" cy="92" rx="6" ry="5" />
+    </g>
+  </g>
+
+  <g id="head">
+    <!-- Blunt, rounded head — greater green snakes have no arrow-shaped head. -->
+    <ellipse cx="272" cy="110" rx="42" ry="27" fill="url(#snakeHead)"
+             transform="rotate(12 272 110)" />
+    <path d="M 246 96 C 268 86 296 88 310 100" fill="none" stroke="#a8ec7d"
+          stroke-width="5" stroke-linecap="round" opacity="0.6" />
+    <!-- Mouth line, closed and calm. -->
+    <path d="M 292 126 C 302 126 308 123 313 119" fill="none" stroke="#2b7d1f"
+          stroke-width="3" stroke-linecap="round" opacity="0.75" />
+  </g>
+
+  <g id="eye">
+    <circle cx="284" cy="103" r="11" fill="url(#snakeEye)" />
+    <circle cx="284" cy="103" r="11" fill="none" stroke="#d8b23c" stroke-width="2.5" />
+    <circle cx="280.5" cy="99.5" r="3.4" fill="#ffffff" opacity="0.92" />
+  </g>
+
+  <g id="tongue">
+    <path d="M 316 117 C 332 119 342 116 352 110" fill="none" stroke="#e0546f"
+          stroke-width="4" stroke-linecap="round" />
+    <path d="M 352 110 C 360 106 366 101 372 96" fill="none" stroke="#e0546f"
+          stroke-width="3.4" stroke-linecap="round" />
+    <path d="M 352 110 C 360 111 366 112 373 112" fill="none" stroke="#e0546f"
+          stroke-width="3.4" stroke-linecap="round" />
+  </g>
+</svg>

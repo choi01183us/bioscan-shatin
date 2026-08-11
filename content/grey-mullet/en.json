@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Flathead grey mullet",
+    "scientificName": "Mugil cephalus",
+    "tagline": "The commonest fish of the Shing Mun River mouth"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-shape",
+      "title": "Look at its shape",
+      "hint": "Turn it round",
+      "message": "A mullet is smooth and streamlined, so it swims fast without tiring.",
+      "subtitle": "Hello! This is a grey mullet. Its smooth body slips through the water quickly."
+    },
+    {
+      "id": "brackish-water",
+      "title": "Where it lives",
+      "hint": "Tap \"Got it\"",
+      "message": "Where the river meets the sea — brackish water — is its favourite place.",
+      "subtitle": "Mullet love where fresh water meets salt water. The Shing Mun River mouth is full of them."
+    },
+    {
+      "id": "protect-river",
+      "title": "How to help",
+      "hint": "Remember: no litter in the river",
+      "message": "Clean water is the only place a mullet can live.",
+      "subtitle": "Keeping litter out of the river gives the fish somewhere to live. Thank you!"
+    }
+  ]
+}

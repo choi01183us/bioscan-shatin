@@ -1,0 +1,79 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Greater green snake",
+    "scientificName": "Ptyas major",
+    "tagline": "A gentle green snake of Hong Kong's woodlands"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {
+    "head": "Head",
+    "eye": "Eye",
+    "tongue": "Tongue",
+    "body": "Body",
+    "tail": "Tail"
+  },
+  "tasks": [
+    {
+      "id": "find-head",
+      "title": "Find the head",
+      "hint": "Tap its head",
+      "message": "The greater green snake has a round head, not a pointed one.",
+      "subtitle": "Hello! This is a greater green snake. Its head is round and its eyes are big."
+    },
+    {
+      "id": "find-tongue",
+      "title": "Find the tongue",
+      "hint": "Tap its tongue",
+      "message": "A snake's tongue is forked — it uses it to smell.",
+      "subtitle": "Snakes do not smell with a nose. They flick out their tongue to smell around."
+    },
+    {
+      "id": "real-photo",
+      "title": "See the real snake",
+      "hint": "Tap \"Real photo\" and drag the slider",
+      "message": "A real greater green snake is bright green all over.",
+      "subtitle": "This is a photo of a real greater green snake. Drag the slider to compare."
+    },
+    {
+      "id": "keep-safe",
+      "title": "What to do",
+      "hint": "Remember: do not touch",
+      "message": "If you see a snake, do not touch it and do not shout — walk away quietly.",
+      "subtitle": "Greater green snakes are harmless and will not attack. Just walk away quietly. Thank you!"
+    }
+  ]
+}

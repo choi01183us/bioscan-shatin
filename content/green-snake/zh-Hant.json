@@ -1,0 +1,79 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "翠青蛇",
+    "scientificName": "Ptyas major",
+    "tagline": "香港樹林裡溫馴的綠色蛇"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {
+    "head": "頭",
+    "eye": "眼",
+    "tongue": "舌",
+    "body": "身體",
+    "tail": "尾"
+  },
+  "tasks": [
+    {
+      "id": "find-head",
+      "title": "找頭部",
+      "hint": "按一下牠的頭",
+      "message": "翠青蛇的頭圓圓的，不是尖的。",
+      "subtitle": "你好！這是翠青蛇。牠的頭圓圓的，眼睛又大又圓。"
+    },
+    {
+      "id": "find-tongue",
+      "title": "找舌頭",
+      "hint": "按一下牠的舌頭",
+      "message": "蛇的舌頭分成兩叉，是用來「聞」味道的。",
+      "subtitle": "蛇不用鼻子聞味道。牠伸出舌頭，就知道周圍有什麼。"
+    },
+    {
+      "id": "real-photo",
+      "title": "看真實的蛇",
+      "hint": "按「看真相」，拉一拉滑桿",
+      "message": "真實的翠青蛇全身翠綠色，很漂亮。",
+      "subtitle": "這是真實的翠青蛇照片。拉一拉滑桿，看看畫和照片有多像。"
+    },
+    {
+      "id": "keep-safe",
+      "title": "看到要怎麼做",
+      "hint": "記住：不要碰牠",
+      "message": "看到蛇，不要碰、不要吵，安靜走開就好。",
+      "subtitle": "翠青蛇沒有毒，不會主動咬人。看到牠，安靜走開就好。謝謝你！"
+    }
+  ]
+}

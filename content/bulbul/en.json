@@ -1,0 +1,80 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Light-vented bulbul",
+    "scientificName": "Pycnonotus sinensis",
+    "tagline": "The bird you see every day in estates and parks"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {
+    "head": "Head",
+    "eye": "Eye",
+    "beak": "Beak",
+    "wing": "Wing",
+    "tail": "Tail",
+    "leg": "Leg"
+  },
+  "tasks": [
+    {
+      "id": "find-white-head",
+      "title": "Find the white patch",
+      "hint": "Tap its head",
+      "message": "It has a white patch on the back of its head — that is how it got its name.",
+      "subtitle": "Hello! This is a light-vented bulbul. The white patch on its head makes it easy to spot."
+    },
+    {
+      "id": "find-wings",
+      "title": "Find the wings",
+      "hint": "Tap its wings",
+      "message": "Its wings are olive green, and it flies in short bouncy hops.",
+      "subtitle": "A bulbul has olive-green wings. It does not fly high — it hops from tree to tree."
+    },
+    {
+      "id": "real-photo",
+      "title": "See the real bird",
+      "hint": "Tap the photo on the right",
+      "message": "On a real bulbul the white patch is very clear.",
+      "subtitle": "This is a photo of a real bulbul. Drag the slider and find the white patch."
+    },
+    {
+      "id": "protect-trees",
+      "title": "What it eats",
+      "hint": "Remember: keep the trees",
+      "message": "It eats fruit and insects, so it needs trees to feed on.",
+      "subtitle": "Bulbuls eat fruit and insects. More trees in the estate means more food. Thank you!"
+    }
+  ]
+}

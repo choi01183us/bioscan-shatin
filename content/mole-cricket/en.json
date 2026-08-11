@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Oriental mole cricket",
+    "scientificName": "Gryllotalpa orientalis",
+    "tagline": "An insect that digs tunnels underground"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-hands",
+      "title": "Look at the front legs",
+      "hint": "Turn it round",
+      "message": "Its front legs are shaped like shovels, built for digging.",
+      "subtitle": "Hello! This is a mole cricket. Its front legs are shovels for digging soil."
+    },
+    {
+      "id": "underground",
+      "title": "Where it lives",
+      "hint": "Tap \"Got it\"",
+      "message": "It spends most of its life in tunnels underground.",
+      "subtitle": "Mole crickets live in tunnels under the soil. They come out at night, so few people see them."
+    },
+    {
+      "id": "protect-soil",
+      "title": "How to help",
+      "hint": "Remember: soil is a home too",
+      "message": "Healthy soil is where the underground creatures live.",
+      "subtitle": "There is life under the ground too. Clean soil gives it somewhere to live. Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Asian swallowtail",
+    "scientificName": "Papilio xuthus",
+    "tagline": "Its caterpillars grow up on citrus leaves"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-tails",
+      "title": "Find the tails",
+      "hint": "Turn it round",
+      "message": "Its hindwings end in two tail-like points — that is why it is a swallowtail.",
+      "subtitle": "Hello! This is an Asian swallowtail. Its hindwings end in two tail-like points."
+    },
+    {
+      "id": "citrus-leaves",
+      "title": "What it ate as a baby",
+      "hint": "Tap \"Got it\"",
+      "message": "Its caterpillars grow up eating citrus leaves.",
+      "subtitle": "As a caterpillar it eats citrus leaves — which is why you find it on lemon trees."
+    },
+    {
+      "id": "protect-trees",
+      "title": "How to help",
+      "hint": "Remember: keep the tree",
+      "message": "No citrus tree means no Asian swallowtail.",
+      "subtitle": "Without citrus trees the caterpillars have nothing to eat. Keeping the tree matters. Thank you!"
+    }
+  ]
+}

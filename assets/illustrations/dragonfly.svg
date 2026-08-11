@@ -1,0 +1,88 @@
+<svg viewBox="0 0 400 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Scarlet skimmer dragonfly">
+  <!--
+    Original illustration (CC0) for the BioScan Lab exhibit — a stylised scarlet
+    skimmer (Crocothemis servilia), the common red dragonfly of Hong Kong's ponds
+    and river edges. Each body part is a <g id="…"> group so the 2D anatomy layer
+    can highlight / label it (ids match anatomyRegistry).
+
+    Drawn from above, wings spread — the pose a child sees when one lands on a
+    railing by Shing Mun River.
+  -->
+  <defs>
+    <linearGradient id="dfBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f46b3a" />
+      <stop offset="55%" stop-color="#d93f22" />
+      <stop offset="100%" stop-color="#a82c16" />
+    </linearGradient>
+    <linearGradient id="dfWing" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#dfe6ea" stop-opacity="0.55" />
+    </linearGradient>
+    <radialGradient id="dfEye" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#f08a72" />
+      <stop offset="55%" stop-color="#c0392b" />
+      <stop offset="100%" stop-color="#7d1f12" />
+    </radialGradient>
+  </defs>
+
+  <ellipse cx="200" cy="340" rx="120" ry="12" fill="#b2543a" opacity="0.14" />
+
+  <g id="wing">
+    <!-- Four wings: forewings up-swept, hindwings broader and lower. -->
+    <g stroke="#9fb0b8" stroke-width="1.2">
+      <ellipse cx="112" cy="150" rx="86" ry="21" fill="url(#dfWing)" transform="rotate(-12 112 150)" />
+      <ellipse cx="288" cy="150" rx="86" ry="21" fill="url(#dfWing)" transform="rotate(12 288 150)" />
+      <ellipse cx="118" cy="196" rx="80" ry="25" fill="url(#dfWing)" transform="rotate(10 118 196)" />
+      <ellipse cx="282" cy="196" rx="80" ry="25" fill="url(#dfWing)" transform="rotate(-10 282 196)" />
+    </g>
+    <!-- A hint of venation: the tracery that makes a dragonfly wing read as one. -->
+    <g stroke="#aebcc4" stroke-width="0.8" opacity="0.75" fill="none">
+      <path d="M 40 156 H 182" />
+      <path d="M 218 156 H 360" />
+      <path d="M 46 199 H 186" />
+      <path d="M 214 199 H 354" />
+    </g>
+    <!-- Pterostigma: the small dark cell near each wing tip. -->
+    <g fill="#c58a3a">
+      <rect x="36" y="146" width="16" height="6" rx="2" transform="rotate(-12 44 149)" />
+      <rect x="348" y="146" width="16" height="6" rx="2" transform="rotate(12 356 149)" />
+    </g>
+  </g>
+
+  <g id="thorax">
+    <ellipse cx="200" cy="176" rx="26" ry="32" fill="url(#dfBody)" />
+    <path d="M 186 152 C 196 146 204 146 214 152" fill="none" stroke="#f7a184"
+          stroke-width="4" stroke-linecap="round" opacity="0.6" />
+  </g>
+
+  <g id="abdomen">
+    <!-- Ten segments, tapering — the long "tail" a child will point at. -->
+    <path d="M 200 205 C 208 240 208 280 202 322" fill="none" stroke="url(#dfBody)"
+          stroke-width="22" stroke-linecap="round" />
+    <g stroke="#8c2411" stroke-width="1.6" opacity="0.55">
+      <path d="M 192 232 H 210" />
+      <path d="M 193 254 H 211" />
+      <path d="M 194 276 H 210" />
+      <path d="M 195 298 H 209" />
+    </g>
+    <path d="M 200 210 C 205 244 205 282 201 316" fill="none" stroke="#7c1f0e"
+          stroke-width="2.4" stroke-linecap="round" opacity="0.7" />
+  </g>
+
+  <g id="eye">
+    <!-- Compound eyes so large they meet on top of the head. -->
+    <ellipse cx="186" cy="132" rx="20" ry="18" fill="url(#dfEye)" />
+    <ellipse cx="214" cy="132" rx="20" ry="18" fill="url(#dfEye)" />
+    <circle cx="180" cy="126" r="5" fill="#ffffff" opacity="0.75" />
+    <circle cx="208" cy="126" r="5" fill="#ffffff" opacity="0.6" />
+  </g>
+
+  <g id="leg">
+    <g stroke="#7c1f0e" stroke-width="4" stroke-linecap="round" fill="none">
+      <path d="M 184 196 C 168 210 158 224 154 240" />
+      <path d="M 216 196 C 232 210 242 224 246 240" />
+      <path d="M 182 186 C 164 194 152 202 144 214" />
+      <path d="M 218 186 C 236 194 248 202 256 214" />
+    </g>
+  </g>
+</svg>

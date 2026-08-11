@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "路氏雙髻鯊",
+    "scientificName": "Sphyrna lewini",
+    "tagline": "頭部像一把鎚子"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-head",
+      "title": "看看頭部",
+      "hint": "轉一轉牠",
+      "message": "頭寬得像一把鎚子，兩隻眼睛分在兩端。",
+      "subtitle": "你好！這是路氏雙髻鯊。牠的頭寬得像鎚子，眼睛分在最兩端。"
+    },
+    {
+      "id": "wide-eyes",
+      "title": "為什麼要這麼寬",
+      "hint": "按「知道了」",
+      "message": "眼睛分得這麼開，牠看到的範圍就寬很多。",
+      "subtitle": "兩隻眼睛分得很開，牠一看就能看到很寬的範圍。"
+    },
+    {
+      "id": "protect-sea",
+      "title": "幫助牠",
+      "hint": "記住：海要乾淨",
+      "message": "海乾淨、有魚吃，鯊魚才住得下。",
+      "subtitle": "海水乾淨、有魚吃，鯊魚才有地方住。謝謝你！"
+    }
+  ]
+}

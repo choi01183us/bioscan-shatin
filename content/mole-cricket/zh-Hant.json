@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "東方螻蛄",
+    "scientificName": "Gryllotalpa orientalis",
+    "tagline": "在泥土裡挖隧道的昆蟲"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-hands",
+      "title": "看看前腳",
+      "hint": "轉一轉牠",
+      "message": "牠的前腳像兩把鏟子，專門用來挖泥。",
+      "subtitle": "你好！這是東方螻蛄。牠的前腳像兩把鏟子，很會挖泥。"
+    },
+    {
+      "id": "underground",
+      "title": "牠住在哪裡",
+      "hint": "按「知道了」",
+      "message": "牠一生大部分時間都在地底隧道裡。",
+      "subtitle": "螻蛄住在泥土下的隧道。晚上才出來，所以很少人見過。"
+    },
+    {
+      "id": "protect-soil",
+      "title": "幫助牠",
+      "hint": "記住：泥土也是家",
+      "message": "土壤健康，地底的生物才有地方住。",
+      "subtitle": "地底也有很多生物。土壤乾淨，牠們才住得下。謝謝你！"
+    }
+  ]
+}

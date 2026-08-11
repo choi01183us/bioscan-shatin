@@ -1,0 +1,73 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "玉帶鳳蝶",
+    "scientificName": "Papilio polytes",
+    "tagline": "香港濕地公園最常見的鳳蝶"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-wings",
+      "title": "看看翅膀",
+      "hint": "轉一轉，看看牠的翅膀",
+      "message": "雌蝶的後翅有一行白斑，像串珠一樣。",
+      "subtitle": "你好！這是玉帶鳳蝶。牠的後翅有一行白色斑點。"
+    },
+    {
+      "id": "mimicry",
+      "title": "模仿高手",
+      "hint": "按「知道了」",
+      "message": "雌蝶會模仿有毒的蝴蝶，鳥兒就不敢吃牠。",
+      "subtitle": "牠沒有毒，但長得像有毒的蝴蝶。鳥兒怕了，就不敢吃牠。"
+    },
+    {
+      "id": "real-photo",
+      "title": "這是真標本",
+      "hint": "按「知道了」",
+      "message": "這不是畫，是真蝴蝶掃描出來的 3D 模型。",
+      "subtitle": "這隻蝴蝶是用真標本掃描出來的，所以可以360度轉著看。"
+    },
+    {
+      "id": "protect-garden",
+      "title": "幫助牠",
+      "hint": "記住：留下一些花",
+      "message": "花多一點，蝴蝶就有東西吃。",
+      "subtitle": "蝴蝶要花蜜才有力氣飛。我們留下一些花，牠才住得下。謝謝你！"
+    }
+  ]
+}

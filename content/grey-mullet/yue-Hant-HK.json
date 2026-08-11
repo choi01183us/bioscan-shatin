@@ -1,0 +1,66 @@
+{
+  "locale": "yue-Hant-HK",
+  "displayName": "廣東話",
+  "species": {
+    "commonName": "烏頭",
+    "scientificName": "Mugil cephalus",
+    "tagline": "城門河口最常見嘅魚"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "返首頁",
+    "replay": "再講一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開聲",
+    "subtitlesOn": "開字幕",
+    "subtitlesOff": "關字幕",
+    "frontView": "返正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮細",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "㩒住講嘢",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白喇！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-shape",
+      "title": "睇下個身形",
+      "hint": "轉一轉佢",
+      "message": "烏頭條身好流線，游得快又慳力。",
+      "subtitle": "你好！呢條係烏頭。佢條身好滑好尖，喺水入面游得好快。"
+    },
+    {
+      "id": "brackish-water",
+      "title": "佢住喺邊",
+      "hint": "撳「知道喇」",
+      "message": "城門河口鹹水同淡水交界，就係佢最鍾意嘅地方。",
+      "subtitle": "河水同海水撞埋一齊嗰度，烏頭最鍾意。城門河口就有好多。"
+    },
+    {
+      "id": "protect-river",
+      "title": "幫佢",
+      "hint": "記住：唔好掉垃圾落河",
+      "message": "河水乾淨，烏頭先有得住。",
+      "subtitle": "我哋唔掉垃圾落河，啲魚先住得落。多謝你！"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "locale": "yue-Hant-HK",
+  "displayName": "廣東話",
+  "species": {
+    "commonName": "姬兜",
+    "scientificName": "Xylotrupes gideon",
+    "tagline": "香港樹林裡嘅大力士"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "返首頁",
+    "replay": "再講一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開聲",
+    "subtitlesOn": "開字幕",
+    "subtitlesOff": "關字幕",
+    "frontView": "返正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮細",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "㩒住講嘢",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個構造",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白喇！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {
+    "shell": "外殼",
+    "hindwing": "飛行翅",
+    "flightMuscle": "飛行肌肉",
+    "trachea": "氣門與氣管",
+    "digestive": "消化道",
+    "nerve": "腦與腹神經索"
+  },
+  "tasks": [
+    {
+      "id": "find-parts",
+      "title": "搵身體部位",
+      "hint": "搵下佢嘅角、觸角同六隻腳",
+      "message": "甲蟲有一隻大角、兩條觸角同六隻腳。",
+      "subtitle": "你好！睇下呢隻姬兜，佢有一隻大角、兩條觸角，仲有六隻腳。"
+    },
+    {
+      "id": "open-wings",
+      "title": "打開翅鞘",
+      "hint": "㩒「打開外殼」睇飛行翅",
+      "message": "硬硬嘅翅鞘打開，入面藏住薄薄嘅飛行翅。",
+      "subtitle": "㩒一下打開佢嘅硬殼，你會見到入面收埋咗一對薄薄嘅飛行翅。"
+    },
+    {
+      "id": "xray-shell",
+      "title": "透視外骨骼",
+      "hint": "切換 X-ray 模式睇外殼",
+      "message": "外骨骼好似盔甲咁保護身體。",
+      "subtitle": "㩒 X-ray 掃描，佢嘅硬外殼會變透明，好似盔甲咁保護住身體。"
+    },
+    {
+      "id": "layers",
+      "title": "睇身體構造",
+      "hint": "逐層睇肌肉、氣管、消化道同神經",
+      "message": "身體入面有飛行肌肉、氣管、消化道同神經。",
+      "subtitle": "一層一層咁睇入面：飛行肌肉、呼吸用嘅氣管、消化道，仲有神經。"
+    },
+    {
+      "id": "protect-forest",
+      "title": "保護森林",
+      "hint": "幫甲蟲守護佢嘅森林屋企",
+      "message": "森林係甲蟲嘅屋企，我哋要一齊保護。",
+      "subtitle": "姬兜住喺森林。我哋保持森林乾淨，佢先可以安全生活。多謝你！"
+    }
+  ]
+}

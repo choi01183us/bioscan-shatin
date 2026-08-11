@@ -1,0 +1,80 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "白頭鵯",
+    "scientificName": "Pycnonotus sinensis",
+    "tagline": "屋邨和公園天天見到的鳥"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {
+    "head": "頭",
+    "eye": "眼",
+    "beak": "嘴",
+    "wing": "翅膀",
+    "tail": "尾",
+    "leg": "腳"
+  },
+  "tasks": [
+    {
+      "id": "find-white-head",
+      "title": "找那撮白毛",
+      "hint": "按一下牠的頭",
+      "message": "牠頭後有一撮白毛，所以叫「白頭」鵯。",
+      "subtitle": "你好！這是白頭鵯。牠頭後有一撮白色的毛，很容易認。"
+    },
+    {
+      "id": "find-wings",
+      "title": "找翅膀",
+      "hint": "按一下牠的翅膀",
+      "message": "牠的翅膀是橄欖綠色，飛的時候一起一伏。",
+      "subtitle": "白頭鵯的翅膀是橄欖綠色。牠飛不高，常在樹間跳來跳去。"
+    },
+    {
+      "id": "real-photo",
+      "title": "看真實的白頭鵯",
+      "hint": "按右邊的生態照",
+      "message": "真實的白頭鵯，那撮白毛很清楚。",
+      "subtitle": "這是真實的白頭鵯照片。拉一拉滑桿，看看白毛在哪裡。"
+    },
+    {
+      "id": "protect-trees",
+      "title": "牠吃什麼",
+      "hint": "記住：留下樹木",
+      "message": "牠吃果實和昆蟲，有樹才有東西吃。",
+      "subtitle": "白頭鵯吃果子和蟲。屋邨多一些樹，牠才有東西吃。謝謝你！"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "廣斧螳",
+    "scientificName": "Hierodula patellifera",
+    "tagline": "花園裡的伏擊高手"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-arms",
+      "title": "看看前腳",
+      "hint": "轉一轉牠",
+      "message": "牠的前腳有刺，抓住東西就放不掉。",
+      "subtitle": "你好！這是廣斧螳。牠的前腳像兩把帶刺的鉗，抓到蟲就放不掉。"
+    },
+    {
+      "id": "look-head",
+      "title": "看看頭",
+      "hint": "轉一轉",
+      "message": "牠的頭可以轉 180 度，不用動身體也看得到後面。",
+      "subtitle": "螳螂的頭會轉。牠不用轉身，就能看到後面有什麼。"
+    },
+    {
+      "id": "protect-garden",
+      "title": "幫助牠",
+      "hint": "記住：不要噴殺蟲水",
+      "message": "螳螂吃害蟲，是花園的好幫手。",
+      "subtitle": "螳螂會吃掉花園的害蟲。不要亂噴殺蟲水，牠才住得下。謝謝你！"
+    }
+  ]
+}

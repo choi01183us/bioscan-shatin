@@ -1,0 +1,86 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Chinese horseshoe crab",
+    "scientificName": "Tachypleus tridentatus",
+    "tagline": "A living fossil of Hong Kong's mudflats"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this model yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {
+    "prosoma": "Head shield",
+    "opisthosoma": "Abdomen",
+    "telson": "Tail spine",
+    "legs": "Legs",
+    "bookGill": "Book gills"
+  },
+  "tasks": [
+    {
+      "id": "find-shell",
+      "title": "Find the shell and tail",
+      "hint": "Find the head shield and the pointy tail spine",
+      "message": "The horseshoe crab has a big head shield and a pointed tail.",
+      "subtitle": "Hello! This is a Chinese horseshoe crab. It has a big round shield and a long pointed tail."
+    },
+    {
+      "id": "count-legs",
+      "title": "Count its legs",
+      "hint": "Turn it over to see how many legs",
+      "message": "Under its shell, the horseshoe crab has many pairs of legs.",
+      "subtitle": "Under the hard shell, the horseshoe crab has many pairs of legs for walking and finding food."
+    },
+    {
+      "id": "xray-gills",
+      "title": "See the book gills",
+      "hint": "Switch to X-ray to see the book gills",
+      "message": "The book gills, like pages, help it breathe in water.",
+      "subtitle": "Press X-ray to see the book gills — like pages of a book, they help it breathe underwater."
+    },
+    {
+      "id": "layers",
+      "title": "See inside, layer by layer",
+      "hint": "Look at the shield, abdomen and book gills",
+      "message": "The body has three parts: head shield, abdomen and tail.",
+      "subtitle": "Look layer by layer: the head shield, the abdomen, the book gills, and the tail spine."
+    },
+    {
+      "id": "protect-mudflat",
+      "title": "Protect the mudflats",
+      "hint": "Help the horseshoe crab guard its mudflat",
+      "message": "The mudflat is the crab's home, and we protect it together.",
+      "subtitle": "The horseshoe crab lives on mudflats. If we keep them clean, it can live safely. Thank you!"
+    }
+  ]
+}

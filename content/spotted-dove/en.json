@@ -1,0 +1,80 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Spotted dove",
+    "scientificName": "Spilopelia chinensis",
+    "tagline": "The one cooing downstairs every morning"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {
+    "head": "Head",
+    "eye": "Eye",
+    "neckPatch": "Neck patch",
+    "wing": "Wing",
+    "tail": "Tail",
+    "leg": "Leg"
+  },
+  "tasks": [
+    {
+      "id": "find-pearls",
+      "title": "Find the pearls",
+      "hint": "Tap its neck",
+      "message": "The side of its neck is black with white spots, like a string of pearls.",
+      "subtitle": "Hello! This is a spotted dove. Its neck looks like it is wearing a string of pearls."
+    },
+    {
+      "id": "find-tail",
+      "title": "Find the long tail",
+      "hint": "Tap its tail",
+      "message": "Its tail is long, and it fans out with white edges when the bird flies.",
+      "subtitle": "Its tail is long. When it fans out in flight you can see the white edges."
+    },
+    {
+      "id": "real-photo",
+      "title": "See the real dove",
+      "hint": "Tap the photo on the right",
+      "message": "On a real spotted dove you can count every pearl.",
+      "subtitle": "This is a photo of a real spotted dove. Drag the slider and count the pearls."
+    },
+    {
+      "id": "protect-quiet",
+      "title": "What to do",
+      "hint": "Remember: do not chase it",
+      "message": "It startles easily. Walk past slowly and it will stay.",
+      "subtitle": "Doves are frightened by noise and chasing. Walk quietly and you can watch longer. Thank you!"
+    }
+  ]
+}

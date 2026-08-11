@@ -1,0 +1,79 @@
+{
+  "locale": "yue-Hant-HK",
+  "displayName": "廣東話",
+  "species": {
+    "commonName": "紅蜻蜓",
+    "scientificName": "Crocothemis servilia",
+    "tagline": "城門河邊常見嘅紅色蜻蜓"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "返首頁",
+    "replay": "再講一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開聲",
+    "subtitlesOn": "開字幕",
+    "subtitlesOff": "關字幕",
+    "frontView": "返正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮細",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "㩒住講嘢",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白喇！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {
+    "eye": "眼",
+    "wing": "翅膀",
+    "thorax": "胸",
+    "abdomen": "肚同尾",
+    "leg": "腳"
+  },
+  "tasks": [
+    {
+      "id": "find-eyes",
+      "title": "搵對大眼",
+      "hint": "㩒下佢對眼",
+      "message": "蜻蜓對眼超級大，差唔多包住成個頭，前後左右都望到。",
+      "subtitle": "你好！呢隻係紅蜻蜓。佢對眼好大，唔使擰頭都望到後面。"
+    },
+    {
+      "id": "find-wings",
+      "title": "搵翅膀",
+      "hint": "㩒下佢嘅翅膀",
+      "message": "佢有四塊翅膀，可以分開郁，所以識停喺半空。",
+      "subtitle": "蜻蜓有四塊翅膀。四塊分開郁，佢就可以停喺半空唔郁。"
+    },
+    {
+      "id": "real-photo",
+      "title": "睇真嘅蜻蜓",
+      "hint": "撳右邊張生態照",
+      "message": "真嘅紅蜻蜓成身橙紅色，眼都係紅色。",
+      "subtitle": "呢張係真嘅紅蜻蜓相。拉一拉條桿，睇下畫同真相有幾似。"
+    },
+    {
+      "id": "protect-water",
+      "title": "佢細個住喺邊",
+      "hint": "記住：水要乾淨",
+      "message": "蜻蜓 BB 喺水入面大，水乾淨佢先有得住。",
+      "subtitle": "蜻蜓細個係住喺水入面㗎。我哋唔亂掉垃圾落河，佢先大得成。多謝你！"
+    }
+  ]
+}

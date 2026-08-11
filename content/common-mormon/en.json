@@ -1,0 +1,73 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Common mormon",
+    "scientificName": "Papilio polytes",
+    "tagline": "The commonest swallowtail at Hong Kong Wetland Park"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-wings",
+      "title": "Look at the wings",
+      "hint": "Turn it and look at the wings",
+      "message": "The female has a row of white spots on her hindwings, like a string of beads.",
+      "subtitle": "Hello! This is a common mormon. Her hindwings carry a row of white spots."
+    },
+    {
+      "id": "mimicry",
+      "title": "A great pretender",
+      "hint": "Tap \"Got it\"",
+      "message": "The female copies a poisonous butterfly, so birds leave her alone.",
+      "subtitle": "She is not poisonous. She just looks like a butterfly that is — so birds keep away."
+    },
+    {
+      "id": "real-photo",
+      "title": "This is a real specimen",
+      "hint": "Tap \"Got it\"",
+      "message": "This is not a drawing — it is a 3D scan of a real butterfly.",
+      "subtitle": "This butterfly was scanned from a real specimen, so you can turn it all the way round."
+    },
+    {
+      "id": "protect-garden",
+      "title": "How to help",
+      "hint": "Remember: leave some flowers",
+      "message": "More flowers means more food for butterflies.",
+      "subtitle": "Butterflies need nectar to fly. Leaving flowers helps them stay. Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Plain tiger butterfly",
+    "scientificName": "Danaus chrysippus",
+    "tagline": "A common orange butterfly in Hong Kong gardens"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {
+    "forewing": "Forewing",
+    "hindwing": "Hindwing",
+    "head": "Head",
+    "antenna": "Antenna",
+    "abdomen": "Abdomen"
+  },
+  "tasks": [
+    {
+      "id": "find-wings",
+      "title": "Find the wings",
+      "hint": "Tap its forewings and hindwings",
+      "message": "The butterfly has a pair of forewings and a pair of hindwings.",
+      "subtitle": "Hello! This is a plain tiger butterfly. It has a pair of forewings and a pair of hindwings."
+    },
+    {
+      "id": "find-antenna",
+      "title": "Find the antennae",
+      "hint": "Tap the two antennae on its head",
+      "message": "The antennae help the butterfly smell and feel.",
+      "subtitle": "Look at the butterfly's head — it has two thin antennae that help it smell flowers."
+    },
+    {
+      "id": "find-body",
+      "title": "Find the body",
+      "hint": "Tap its body and head in the middle",
+      "message": "The middle is the abdomen, and the front is the head.",
+      "subtitle": "The middle of the butterfly is its body, with a small head at the front."
+    },
+    {
+      "id": "colors",
+      "title": "Look at the colours",
+      "hint": "Look at the orange, black and white spots",
+      "message": "The plain tiger is orange, black and white.",
+      "subtitle": "The plain tiger is beautiful — it is orange and black, with white spots."
+    },
+    {
+      "id": "protect-garden",
+      "title": "Protect the garden",
+      "hint": "Help the butterfly guard the garden",
+      "message": "Gardens have flowers, so butterflies have food.",
+      "subtitle": "The plain tiger drinks nectar in gardens. If we plant more flowers, they have food. Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "locale": "yue-Hant-HK",
+  "displayName": "廣東話",
+  "species": {
+    "commonName": "廣斧螳",
+    "scientificName": "Hierodula patellifera",
+    "tagline": "花園入面嘅伏擊高手"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "返首頁",
+    "replay": "再講一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開聲",
+    "subtitlesOn": "開字幕",
+    "subtitlesOff": "關字幕",
+    "frontView": "返正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮細",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "㩒住講嘢",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白喇！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-arms",
+      "title": "睇下對前腳",
+      "hint": "轉一轉佢",
+      "message": "佢對前腳有刺，捉到嘢就放唔甩。",
+      "subtitle": "你好！呢隻係廣斧螳。佢對前腳好似兩把有刺嘅鉗，捉到蟲就放唔甩。"
+    },
+    {
+      "id": "look-head",
+      "title": "睇下個頭",
+      "hint": "轉一轉",
+      "message": "佢個頭可以擰成 180 度，唔使郁身都望到後面。",
+      "subtitle": "螳螂個頭識擰。佢唔使郁身，就望到後面有咩。"
+    },
+    {
+      "id": "protect-garden",
+      "title": "幫佢",
+      "hint": "記住：唔好噴殺蟲水",
+      "message": "螳螂食害蟲，係花園嘅好幫手。",
+      "subtitle": "螳螂會食走花園啲害蟲。唔好亂噴殺蟲水，佢先住得落。多謝你！"
+    }
+  ]
+}

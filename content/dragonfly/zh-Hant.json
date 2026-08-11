@@ -1,0 +1,79 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "紅蜻蜓",
+    "scientificName": "Crocothemis servilia",
+    "tagline": "城門河邊常見的紅色蜻蜓"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {
+    "eye": "眼",
+    "wing": "翅膀",
+    "thorax": "胸",
+    "abdomen": "腹部",
+    "leg": "腳"
+  },
+  "tasks": [
+    {
+      "id": "find-eyes",
+      "title": "找大眼睛",
+      "hint": "按一下牠的眼睛",
+      "message": "蜻蜓的眼睛非常大，幾乎包住整個頭，前後左右都看得到。",
+      "subtitle": "你好！這是紅蜻蜓。牠的眼睛很大，不用轉頭也看得到後面。"
+    },
+    {
+      "id": "find-wings",
+      "title": "找翅膀",
+      "hint": "按一下牠的翅膀",
+      "message": "牠有四片翅膀，可以分開擺動，所以能停在半空。",
+      "subtitle": "蜻蜓有四片翅膀。四片分開擺動，牠就能停在半空不動。"
+    },
+    {
+      "id": "real-photo",
+      "title": "看真實的蜻蜓",
+      "hint": "按右邊的生態照",
+      "message": "真實的紅蜻蜓全身橙紅色，眼睛也是紅的。",
+      "subtitle": "這是真實的紅蜻蜓照片。拉一拉滑桿，看看畫和照片有多像。"
+    },
+    {
+      "id": "protect-water",
+      "title": "牠小時候住哪裡",
+      "hint": "記住：水要乾淨",
+      "message": "蜻蜓寶寶在水裡長大，水乾淨牠才有地方住。",
+      "subtitle": "蜻蜓小時候住在水裡。我們不亂丟垃圾到河裡，牠才長得大。謝謝你！"
+    }
+  ]
+}

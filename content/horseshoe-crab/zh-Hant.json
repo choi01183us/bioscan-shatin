@@ -1,0 +1,86 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "中國鱟",
+    "scientificName": "Tachypleus tridentatus",
+    "tagline": "香港泥灘的活化石"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個構造",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {
+    "prosoma": "頭胸甲",
+    "opisthosoma": "腹甲",
+    "telson": "尾劍",
+    "legs": "步足",
+    "bookGill": "書鰓"
+  },
+  "tasks": [
+    {
+      "id": "find-shell",
+      "title": "找外殼和尾劍",
+      "hint": "找找看牠的頭胸甲和尖尖的尾劍",
+      "message": "鱟有一塊大頭胸甲和一條尖尾劍。",
+      "subtitle": "你好！這是中國鱟。牠有一塊大大的頭胸甲，還有一條尖尖的尾劍。"
+    },
+    {
+      "id": "count-legs",
+      "title": "數數牠的腳",
+      "hint": "翻過來看看有幾對腳",
+      "message": "鱟在殼下面有很多對腳。",
+      "subtitle": "在硬殼下面，中國鱟有很多對腳，用來走路和覓食。"
+    },
+    {
+      "id": "xray-gills",
+      "title": "看書鰓",
+      "hint": "切換 X 光看書鰓",
+      "message": "書鰓一頁頁的，幫牠在水中呼吸。",
+      "subtitle": "按下 X 光，你會看到書鰓，一頁頁像書一樣，幫牠在水裡呼吸。"
+    },
+    {
+      "id": "layers",
+      "title": "逐層看身體",
+      "hint": "逐層看頭胸甲、腹甲和書鰓",
+      "message": "身體分頭胸甲、腹甲和尾劍三部分。",
+      "subtitle": "一層一層看：頭胸甲、腹甲、書鰓，還有尾劍。"
+    },
+    {
+      "id": "protect-mudflat",
+      "title": "保護泥灘",
+      "hint": "幫中國鱟守護牠的泥灘",
+      "message": "泥灘是鱟的家，我們要一起保護。",
+      "subtitle": "中國鱟住在泥灘。我們保持泥灘乾淨，牠才能安全生活。謝謝你！"
+    }
+  ]
+}
