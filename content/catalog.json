@@ -69,8 +69,7 @@
       "id": "butterfly",
       "order": 3,
       "emoji": "🦋",
-      "view": "2d",
-      "illustration": "assets/illustrations/butterfly.svg",
+      "view": "3d",
       "anatomy": "butterfly",
       "name": {
         "yue-Hant-HK": "金斑蝶",
@@ -83,9 +82,9 @@
         "en": "A common orange butterfly in Hong Kong gardens"
       },
       "sighting": "common",
-      "credit": "原創插圖 / original illustration · CC0",
+      "credit": "3D 掃描 / scan: Graphics & Extended Reality Lab · CC BY 4.0",
       "scene": "garden",
-      "rotateSpeed": 0.5,
+      "rotateSpeed": 0.45,
       "photos": [
         {
           "src": "assets/photos/butterfly-1.jpg",
@@ -106,7 +105,7 @@
           }
         }
       ],
-      "hidden": true
+      "model": "assets/models/danaus_chrysippus.glb"
     },
     {
       "id": "green-snake",
@@ -155,8 +154,7 @@
       "id": "dragonfly",
       "order": 5,
       "emoji": "🦟",
-      "view": "2d",
-      "illustration": "assets/illustrations/dragonfly.svg",
+      "view": "3d",
       "anatomy": "dragonfly",
       "name": {
         "yue-Hant-HK": "紅蜻蜓",
@@ -169,8 +167,8 @@
         "en": "The red dragonfly of Shing Mun River"
       },
       "sighting": "common",
-      "credit": "原創插圖 / original illustration · CC0",
-      "scene": "garden",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "water",
       "rotateSpeed": 0.5,
       "photos": [
         {
@@ -192,7 +190,7 @@
           }
         }
       ],
-      "hidden": true
+      "model": "assets/models/crocothemis_servilia.glb"
     },
     {
       "id": "common-mormon",
@@ -285,8 +283,7 @@
       "id": "spotted-dove",
       "order": 9,
       "emoji": "🕊️",
-      "view": "2d",
-      "illustration": "assets/illustrations/spotted-dove.svg",
+      "view": "3d",
       "anatomy": "spotted-dove",
       "name": {
         "yue-Hant-HK": "珠頸斑鳩",
@@ -299,9 +296,9 @@
         "en": "The one cooing downstairs every morning"
       },
       "sighting": "common",
-      "credit": "原創插圖 / original illustration · CC0",
+      "credit": "3D 掃描 / scan: MooreLab · CC BY 4.0",
       "scene": "garden",
-      "rotateSpeed": 0.45,
+      "rotateSpeed": 0.4,
       "photos": [
         {
           "src": "assets/photos/spotted-dove-1.jpg",
@@ -322,7 +319,7 @@
           }
         }
       ],
-      "hidden": true
+      "model": "assets/models/spilopelia_chinensis.glb"
     },
     {
       "id": "mantis",

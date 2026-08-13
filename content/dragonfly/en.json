@@ -39,41 +39,28 @@
     "layer": "Body layers",
     "exploded": "Take apart"
   },
-  "anatomy": {
-    "eye": "Eye",
-    "wing": "Wing",
-    "thorax": "Thorax",
-    "abdomen": "Abdomen",
-    "leg": "Leg"
-  },
+  "anatomy": {},
   "tasks": [
     {
-      "id": "find-eyes",
-      "title": "Find the big eyes",
-      "hint": "Tap its eyes",
-      "message": "A dragonfly’s eyes are huge — they wrap around its head so it sees almost everywhere.",
-      "subtitle": "Hello! This is a scarlet skimmer. Its eyes are so big it can see behind itself."
+      "id": "look-wings",
+      "title": "Look at the wings",
+      "hint": "Give it a spin",
+      "message": "Four wings, so thin you can see straight through them.",
+      "subtitle": "Hello! This is a scarlet skimmer. Four wings, thin enough to see through."
     },
     {
-      "id": "find-wings",
-      "title": "Find the wings",
-      "hint": "Tap its wings",
-      "message": "It has four wings that move separately, so it can hover in one spot.",
-      "subtitle": "A dragonfly has four wings. Moving them separately lets it hover in mid-air."
-    },
-    {
-      "id": "real-photo",
-      "title": "See the real one",
-      "hint": "Tap the photo on the right",
-      "message": "A real scarlet skimmer is orange-red all over, even its eyes.",
-      "subtitle": "This is a photo of a real scarlet skimmer. Drag the slider to compare."
+      "id": "red-body",
+      "title": "Why so red",
+      "hint": "Tap “Got it”",
+      "message": "Males are bright red all over; females are more yellow-brown.",
+      "subtitle": "Males are bright red; females are yellow-brown. This one is a male."
     },
     {
       "id": "protect-water",
-      "title": "Where it grows up",
-      "hint": "Remember: keep the water clean",
-      "message": "Baby dragonflies grow up underwater — they need clean water to live in.",
-      "subtitle": "Dragonflies live underwater when they are young. Keeping the river clean helps them grow. Thank you!"
+      "title": "Help it",
+      "hint": "Remember: keep the pond clean",
+      "message": "Baby dragonflies live in the water. Clean water is how they grow up.",
+      "subtitle": "Baby dragonflies live in water. Clean water is how they grow. Thank you!"
     }
   ]
 }

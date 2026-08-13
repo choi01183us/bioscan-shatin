@@ -39,48 +39,28 @@
     "layer": "構造層",
     "exploded": "分解展示"
   },
-  "anatomy": {
-    "forewing": "前翅",
-    "hindwing": "後翅",
-    "head": "頭",
-    "antenna": "觸角",
-    "abdomen": "腹部"
-  },
+  "anatomy": {},
   "tasks": [
     {
-      "id": "find-wings",
-      "title": "搵翅膀",
-      "hint": "㩒下佢嘅前翅同後翅",
-      "message": "蝴蝶有一對前翅同一對後翅。",
-      "subtitle": "你好！呢隻係金斑蝶。佢有一對前翅同一對後翅。"
+      "id": "look-wings",
+      "title": "望下對翼",
+      "hint": "轉一轉佢",
+      "message": "橙色嘅翼,翼尖黑色仲有白點。",
+      "subtitle": "你好!呢隻係金斑蝶。橙色嘅翼,翼尖黑色有白點。"
     },
     {
-      "id": "find-antenna",
-      "title": "搵觸角",
-      "hint": "㩒下頭上面兩條觸角",
-      "message": "觸角幫蝴蝶聞味同感覺。",
-      "subtitle": "睇下蝴蝶頭上面，有兩條幼幼嘅觸角，幫佢聞花香。"
-    },
-    {
-      "id": "find-body",
-      "title": "搵身體",
-      "hint": "㩒下佢中間嘅身體同頭",
-      "message": "身體中間係腹部，前面係頭。",
-      "subtitle": "蝴蝶中間係佢嘅身體，前面有個細細嘅頭。"
-    },
-    {
-      "id": "colors",
-      "title": "睇顏色",
-      "hint": "睇下橙色、黑色同白色斑點",
-      "message": "金斑蝶係橙色、黑色同白色。",
-      "subtitle": "金斑蝶好靚，佢係橙色、黑色，仲有白色斑點。"
+      "id": "bad-taste",
+      "title": "佢有味道保護",
+      "hint": "撳「知道喇」",
+      "message": "佢細個食有毒嘅葉,所以雀仔食落覺得難食,唔敢再食。",
+      "subtitle": "佢細個食有毒嘅葉,大個之後雀仔食落覺得難食,就唔敢再捉佢。"
     },
     {
       "id": "protect-garden",
-      "title": "保護花園",
-      "hint": "幫蝴蝶守護花園",
-      "message": "花園有花，蝴蝶先有嘢食。",
-      "subtitle": "金斑蝶喺花園採花蜜。我哋多啲種花，佢哋先有得食。多謝你！"
+      "title": "幫佢",
+      "hint": "記住:花園要有花",
+      "message": "花園有花,金斑蝶先有嘢食。",
+      "subtitle": "花園有花,佢先有嘢食。多謝你!"
     }
   ]
 }
