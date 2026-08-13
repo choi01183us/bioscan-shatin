@@ -105,7 +105,8 @@
             "en": "A real plain tiger butterfly (female)"
           }
         }
-      ]
+      ],
+      "hidden": true
     },
     {
       "id": "green-snake",
@@ -147,7 +148,8 @@
             "en": "Look closely: the big eye and the forked tongue"
           }
         }
-      ]
+      ],
+      "hidden": true
     },
     {
       "id": "dragonfly",
@@ -189,7 +191,8 @@
             "en": "The female is golden, with green-tinted wings"
           }
         }
-      ]
+      ],
+      "hidden": true
     },
     {
       "id": "common-mormon",
@@ -275,7 +278,8 @@
             "en": "The whole bird, tail spread"
           }
         }
-      ]
+      ],
+      "hidden": true
     },
     {
       "id": "spotted-dove",
@@ -317,7 +321,8 @@
             "en": "A closer look at the head and neck patch"
           }
         }
-      ]
+      ],
+      "hidden": true
     },
     {
       "id": "mantis",
