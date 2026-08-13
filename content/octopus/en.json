@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Webfoot octopus",
+    "scientificName": "Octopus ocellatus",
+    "tagline": "Eight arms, very good at hiding"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "count-arms",
+      "title": "Count its arms",
+      "hint": "Give it a spin",
+      "message": "Eight arms, each with a row of suckers that grip very tightly.",
+      "subtitle": "Hello! This is a webfoot octopus. It has eight arms, each with a row of suckers."
+    },
+    {
+      "id": "hide",
+      "title": "It is very good at hiding",
+      "hint": "Tap “Got it”",
+      "message": "It hides in rock cracks and empty shells, and changes colour to look like a stone.",
+      "subtitle": "It hides in cracks and shells, and changes colour to look like a stone."
+    },
+    {
+      "id": "protect-sea",
+      "title": "Help it",
+      "hint": "Remember: keep the sea clean",
+      "message": "A clean sea with places to hide is where it can live.",
+      "subtitle": "A clean sea with hiding places is where it lives. Thank you!"
+    }
+  ]
+}

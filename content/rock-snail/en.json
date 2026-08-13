@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Rock snail",
+    "scientificName": "Thais clavigera",
+    "tagline": "The little snail all over the rocks"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-shell",
+      "title": "Look at its shell",
+      "hint": "Give it a spin",
+      "message": "The shell is covered in bumps and is very hard — the waves cannot break it.",
+      "subtitle": "Hello! This is a rock snail. Its bumpy shell is hard enough for the waves."
+    },
+    {
+      "id": "rocky-shore",
+      "title": "Where it lives",
+      "hint": "Tap “Got it”",
+      "message": "Hong Kong's rocky shores are covered in them. Go at low tide and you will see.",
+      "subtitle": "They are all over Hong Kong's rocky shores. Go at low tide and look."
+    },
+    {
+      "id": "protect-shore",
+      "title": "Help it",
+      "hint": "Remember: put the rocks back",
+      "message": "Put back any rock you turn over, so they still have a home.",
+      "subtitle": "Put the rocks back and they still have a home. Thank you!"
+    }
+  ]
+}

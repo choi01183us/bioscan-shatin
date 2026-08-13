@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "青蟹（雄）",
+    "scientificName": "Scylla serrata",
+    "tagline": "高舉兩隻大螯"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-claws",
+      "title": "看看牠的大螯",
+      "hint": "轉一轉牠",
+      "message": "雄青蟹的螯又大又粗,用來打鬥和自衞。",
+      "subtitle": "你好!這是雄青蟹。牠的兩隻大螯又粗又有力。"
+    },
+    {
+      "id": "count-legs",
+      "title": "數數牠有幾隻腳",
+      "hint": "按「知道了」",
+      "message": "蟹有八隻腳走路,最後兩隻扁平,像船槳一樣游水。",
+      "subtitle": "八隻腳走路,最後兩隻扁平當船槳游水。"
+    },
+    {
+      "id": "protect-mangrove",
+      "title": "幫助牠",
+      "hint": "記住:要保留紅樹林",
+      "message": "米埔的紅樹林是青蟹的家。",
+      "subtitle": "紅樹林保留住,青蟹才有家。謝謝你!"
+    }
+  ]
+}

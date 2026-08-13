@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "青蟹（雌）",
+    "scientificName": "Scylla serrata",
+    "tagline": "腹部的蓋又圓又寬"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-belly",
+      "title": "看看牠的腹部",
+      "hint": "轉一轉牠",
+      "message": "雌蟹腹部有一塊又圓又寬的蓋,用來兜住蟹卵。",
+      "subtitle": "你好!這是雌青蟹。看看牠的腹部,那塊蓋又圓又寬。"
+    },
+    {
+      "id": "compare-male",
+      "title": "和雄蟹比一比",
+      "hint": "按「知道了」",
+      "message": "雄蟹的腹蓋又窄又尖,雌蟹的又圓又寬——這樣就分得出了。",
+      "subtitle": "雄蟹腹蓋窄而尖,雌蟹圓而寬。你也分得出了!"
+    },
+    {
+      "id": "protect-mangrove",
+      "title": "幫助牠",
+      "hint": "記住:要保留紅樹林",
+      "message": "雌蟹要在乾淨的水中才養得成蟹卵。",
+      "subtitle": "水乾淨,蟹媽媽才養得成蟹卵。謝謝你!"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "短蛸",
+    "scientificName": "Octopus ocellatus",
+    "tagline": "八隻腕足,善於躲藏"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "count-arms",
+      "title": "數數牠有幾隻腳",
+      "hint": "轉一轉牠",
+      "message": "八隻腕足,每隻都有一排吸盤,吸得很牢。",
+      "subtitle": "你好!這是短蛸。牠有八隻腕足,每隻都有一排吸盤。"
+    },
+    {
+      "id": "hide",
+      "title": "牠很會躲",
+      "hint": "按「知道了」",
+      "message": "牠會躲進石縫和貝殼裡,還會變色扮成石頭。",
+      "subtitle": "牠會躲進石縫和貝殼,還會變色扮石頭,很難找得到。"
+    },
+    {
+      "id": "protect-sea",
+      "title": "幫助牠",
+      "hint": "記住:海要乾淨",
+      "message": "海水乾淨、有石縫可躲,短蛸才住得下。",
+      "subtitle": "海乾淨、有地方躲,短蛸才住得下。謝謝你!"
+    }
+  ]
+}

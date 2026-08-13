@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Mangrove crab (male)",
+    "scientificName": "Scylla serrata",
+    "tagline": "Big claws held high"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-claws",
+      "title": "Look at the big claws",
+      "hint": "Give it a spin",
+      "message": "A male's claws are thick and strong, for fighting and for keeping safe.",
+      "subtitle": "Hello! This is a male mangrove crab. His claws are thick and strong."
+    },
+    {
+      "id": "count-legs",
+      "title": "Count its legs",
+      "hint": "Tap “Got it”",
+      "message": "Crabs walk on eight legs. The back two are flat, like little paddles for swimming.",
+      "subtitle": "Eight legs for walking, and the back two are flat paddles for swimming."
+    },
+    {
+      "id": "protect-mangrove",
+      "title": "Help it",
+      "hint": "Remember: keep the mangroves",
+      "message": "The mangroves at Mai Po are where mangrove crabs live.",
+      "subtitle": "Mangroves are where these crabs live. Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "疣荔枝螺",
+    "scientificName": "Thais clavigera",
+    "tagline": "岩岸上最常見的小螺"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-shell",
+      "title": "看看牠的殼",
+      "hint": "轉一轉牠",
+      "message": "殼上一粒粒的,非常堅硬,浪打不破。",
+      "subtitle": "你好!這是疣荔枝螺。殼上一粒粒的,非常堅硬。"
+    },
+    {
+      "id": "rocky-shore",
+      "title": "牠住在哪裡",
+      "hint": "按「知道了」",
+      "message": "香港的岩岸到處都有牠,退潮時就看得見。",
+      "subtitle": "香港的岩岸到處都有牠。退潮去岩岸,你也找得到。"
+    },
+    {
+      "id": "protect-shore",
+      "title": "幫助牠",
+      "hint": "記住:看完放回原位",
+      "message": "搬動過的石頭記得放回去,牠們才有地方住。",
+      "subtitle": "石頭放回原位,牠們才有地方住。謝謝你!"
+    }
+  ]
+}

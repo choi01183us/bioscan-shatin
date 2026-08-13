@@ -494,6 +494,116 @@
       "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
       "scene": "mudflat",
       "rotateSpeed": 0.35
+    },
+    {
+      "id": "mudskipper",
+      "order": 18,
+      "emoji": "🐟",
+      "view": "3d",
+      "model": "assets/models/periophthalmus_modestus.glb",
+      "anatomy": "mudskipper",
+      "name": {
+        "yue-Hant-HK": "彈塗魚",
+        "zh-Hant": "彈塗魚",
+        "en": "Shuttles mudskipper"
+      },
+      "tagline": {
+        "yue-Hant-HK": "識喺泥灘上面行同跳",
+        "zh-Hant": "能在泥灘上行走跳躍",
+        "en": "A fish that walks on the mud"
+      },
+      "sighting": "sometimes",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.4
+    },
+    {
+      "id": "mangrove-crab-male",
+      "order": 19,
+      "emoji": "🦀",
+      "view": "3d",
+      "model": "assets/models/scylla_serrata_male.glb",
+      "anatomy": "mangrove-crab-male",
+      "name": {
+        "yue-Hant-HK": "青蟹（公）",
+        "zh-Hant": "青蟹（雄）",
+        "en": "Mangrove crab (male)"
+      },
+      "tagline": {
+        "yue-Hant-HK": "兩隻大鉗舉得高高",
+        "zh-Hant": "高舉兩隻大螯",
+        "en": "Big claws held high"
+      },
+      "sighting": "sometimes",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.35
+    },
+    {
+      "id": "mangrove-crab-female",
+      "order": 20,
+      "emoji": "🦀",
+      "view": "3d",
+      "model": "assets/models/scylla_serrata_female.glb",
+      "anatomy": "mangrove-crab-female",
+      "name": {
+        "yue-Hant-HK": "青蟹（乸）",
+        "zh-Hant": "青蟹（雌）",
+        "en": "Mangrove crab (female)"
+      },
+      "tagline": {
+        "yue-Hant-HK": "肚仔嘅蓋又圓又闊",
+        "zh-Hant": "腹部的蓋又圓又寬",
+        "en": "A wide round flap on her belly"
+      },
+      "sighting": "sometimes",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.35
+    },
+    {
+      "id": "rock-snail",
+      "order": 21,
+      "emoji": "🐚",
+      "view": "3d",
+      "model": "assets/models/thais_clavigera.glb",
+      "anatomy": "rock-snail",
+      "name": {
+        "yue-Hant-HK": "疣荔枝螺",
+        "zh-Hant": "疣荔枝螺",
+        "en": "Rock snail"
+      },
+      "tagline": {
+        "yue-Hant-HK": "石灘上最多嘅細螺",
+        "zh-Hant": "岩岸上最常見的小螺",
+        "en": "The little snail all over the rocks"
+      },
+      "sighting": "common",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.5
+    },
+    {
+      "id": "octopus",
+      "order": 22,
+      "emoji": "🐙",
+      "view": "3d",
+      "model": "assets/models/octopus_ocellatus.glb",
+      "anatomy": "octopus",
+      "name": {
+        "yue-Hant-HK": "短蛸",
+        "zh-Hant": "短蛸",
+        "en": "Webfoot octopus"
+      },
+      "tagline": {
+        "yue-Hant-HK": "八隻腳,識匿埋",
+        "zh-Hant": "八隻腕足,善於躲藏",
+        "en": "Eight arms, very good at hiding"
+      },
+      "sighting": "sometimes",
+      "credit": "3D 掃描 / scan: Yuichi Kano (ffish.asia) · CC0",
+      "scene": "mudflat",
+      "rotateSpeed": 0.4
     }
   ]
 }

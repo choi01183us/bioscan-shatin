@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Mangrove crab (female)",
+    "scientificName": "Scylla serrata",
+    "tagline": "A wide round flap on her belly"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-belly",
+      "title": "Look at her belly",
+      "hint": "Give her a spin",
+      "message": "A female has a wide, round flap on her belly to hold her eggs.",
+      "subtitle": "Hello! This is a female mangrove crab. Look at the wide round flap on her belly."
+    },
+    {
+      "id": "compare-male",
+      "title": "Compare with the male",
+      "hint": "Tap “Got it”",
+      "message": "A male's flap is narrow and pointed; a female's is round and wide. Now you can tell them apart.",
+      "subtitle": "Narrow and pointed means male. Round and wide means female. Now you know!"
+    },
+    {
+      "id": "protect-mangrove",
+      "title": "Help her",
+      "hint": "Remember: keep the mangroves",
+      "message": "She needs clean water to raise her eggs.",
+      "subtitle": "Clean water is how she raises her eggs. Thank you!"
+    }
+  ]
+}

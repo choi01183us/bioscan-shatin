@@ -1,0 +1,66 @@
+{
+  "locale": "zh-Hant",
+  "displayName": "繁體中文",
+  "species": {
+    "commonName": "彈塗魚",
+    "scientificName": "Periophthalmus modestus",
+    "tagline": "能在泥灘上行走跳躍"
+  },
+  "ui": {
+    "appName": "生物掃描實驗室",
+    "startScan": "開始掃描",
+    "begin": "開始",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "reset": "重新開始",
+    "home": "回首頁",
+    "replay": "再說一次",
+    "play": "播放",
+    "pause": "暫停",
+    "mute": "靜音",
+    "unmute": "開啟聲音",
+    "subtitlesOn": "開啟字幕",
+    "subtitlesOff": "關閉字幕",
+    "frontView": "回正面",
+    "zoomIn": "放大",
+    "zoomOut": "縮小",
+    "taskProgress": "任務進度",
+    "holdToSpeak": "按住說話",
+    "loading": "載入中",
+    "wellDone": "做得好！",
+    "nextStructure": "下一個部位",
+    "notProvided": "此資產尚未提供",
+    "gotIt": "明白了！"
+  },
+  "modes": {
+    "exterior": "外觀",
+    "xray": "透視外殼",
+    "layer": "構造層",
+    "exploded": "分解展示"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-eyes",
+      "title": "看看牠的眼睛",
+      "hint": "轉一轉牠",
+      "message": "兩隻眼睛凸出頭頂,在水面上也看得見。",
+      "subtitle": "你好!這是彈塗魚。牠的眼睛凸出頭頂,在水面上一樣看得見。"
+    },
+    {
+      "id": "walk-mud",
+      "title": "牠會走路",
+      "hint": "按「知道了」",
+      "message": "牠用前面兩隻鰭撐起身體,在泥灘上行走,還會跳躍。",
+      "subtitle": "牠用前鰭撐起身體,在泥上行走,還會跳躍。魚也可以離開水一陣子。"
+    },
+    {
+      "id": "protect-mud",
+      "title": "幫助牠",
+      "hint": "記住:泥灘要乾淨",
+      "message": "米埔的泥灘乾淨,彈塗魚才有地方住。",
+      "subtitle": "泥灘乾淨,彈塗魚才有地方住。謝謝你!"
+    }
+  ]
+}

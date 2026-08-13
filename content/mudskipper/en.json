@@ -1,0 +1,66 @@
+{
+  "locale": "en",
+  "displayName": "English",
+  "species": {
+    "commonName": "Shuttles mudskipper",
+    "scientificName": "Periophthalmus modestus",
+    "tagline": "A fish that walks on the mud"
+  },
+  "ui": {
+    "appName": "BioScan Lab",
+    "startScan": "Start Scan",
+    "begin": "Begin",
+    "next": "Next",
+    "previous": "Back",
+    "back": "Back",
+    "reset": "Start Over",
+    "home": "Home",
+    "replay": "Say it again",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "subtitlesOn": "Captions on",
+    "subtitlesOff": "Captions off",
+    "frontView": "Front view",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "taskProgress": "Task progress",
+    "holdToSpeak": "Hold to speak",
+    "loading": "Loading",
+    "wellDone": "Well done!",
+    "nextStructure": "Next part",
+    "notProvided": "not in this illustration yet",
+    "gotIt": "Got it!"
+  },
+  "modes": {
+    "exterior": "Outside",
+    "xray": "X-ray shell",
+    "layer": "Body layers",
+    "exploded": "Take apart"
+  },
+  "anatomy": {},
+  "tasks": [
+    {
+      "id": "look-eyes",
+      "title": "Look at its eyes",
+      "hint": "Give it a spin",
+      "message": "Its eyes sit on top of its head, so it can see above the water.",
+      "subtitle": "Hello! This is a mudskipper. Its eyes sit right on top of its head."
+    },
+    {
+      "id": "walk-mud",
+      "title": "It can walk",
+      "hint": "Tap “Got it”",
+      "message": "It props itself up on its front fins and walks — and hops — across the mud.",
+      "subtitle": "It props itself up on its front fins and walks on the mud. A fish out of water!"
+    },
+    {
+      "id": "protect-mud",
+      "title": "Help it",
+      "hint": "Remember: keep the mudflat clean",
+      "message": "Clean mudflats at Mai Po are where mudskippers live.",
+      "subtitle": "Clean mudflats are where mudskippers live. Thank you!"
+    }
+  ]
+}
