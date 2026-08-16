@@ -39,49 +39,28 @@
     "layer": "Body layers",
     "exploded": "Take apart"
   },
-  "anatomy": {
-    "shell": "Shell",
-    "hindwing": "Flight wings",
-    "flightMuscle": "Flight muscles",
-    "trachea": "Airways",
-    "digestive": "Gut",
-    "nerve": "Brain & nerves"
-  },
+  "anatomy": {},
   "tasks": [
     {
-      "id": "find-parts",
-      "title": "Find the body parts",
-      "hint": "Find the horn, antennae and six legs",
-      "message": "The beetle has one big horn, two antennae and six legs.",
-      "subtitle": "Hello! Look at this rhinoceros beetle. It has one big horn, two antennae, and six legs."
+      "id": "look-horn",
+      "title": "Look at its horn",
+      "hint": "Give it a spin",
+      "message": "A male rhinoceros beetle has a horn on its head, for pushing contests with other males.",
+      "subtitle": "Hello! This is a rhinoceros beetle. The male's horn is for pushing contests with other males."
     },
     {
-      "id": "open-wings",
-      "title": "Open the wing cases",
-      "hint": "Press \"open shell\" to see the flight wings",
-      "message": "The hard wing cases open to reveal thin flight wings.",
-      "subtitle": "Press to open its hard shell. Inside, it keeps a pair of thin flight wings folded away."
-    },
-    {
-      "id": "xray-shell",
-      "title": "See through the shell",
-      "hint": "Switch to X-ray mode to see the shell",
-      "message": "The exoskeleton protects the body like armour.",
-      "subtitle": "Press X-ray scan. Its hard shell turns clear, protecting the body just like armour."
-    },
-    {
-      "id": "layers",
-      "title": "See inside the body",
-      "hint": "Look layer by layer: muscles, airways, gut and nerves",
-      "message": "Inside there are flight muscles, airways, a gut and nerves.",
-      "subtitle": "Look inside, layer by layer: flight muscles, breathing airways, the gut, and the nerves."
+      "id": "strong",
+      "title": "It is very strong",
+      "hint": "Tap “Got it”",
+      "message": "It can push things many times its own weight — the strong one of the woodland.",
+      "subtitle": "It can push many times its own weight. A small body with a lot of strength."
     },
     {
       "id": "protect-forest",
-      "title": "Protect the forest",
-      "hint": "Help the beetle guard its forest home",
-      "message": "The forest is the beetle's home, and we protect it together.",
-      "subtitle": "This beetle lives in the forest. If we keep the forest clean, it can live safely. Thank you!"
+      "title": "Help it",
+      "hint": "Remember: keep the woodland",
+      "message": "Rhinoceros beetles live in the woods and feed on tree sap. No trees, no beetles.",
+      "subtitle": "Keep the woodland and the beetle has a home. Thank you!"
     }
   ]
 }
