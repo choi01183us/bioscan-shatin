@@ -70,7 +70,7 @@
       "order": 3,
       "emoji": "🦋",
       "view": "3d",
-      "anatomy": "butterfly",
+      "anatomy": "scan",
       "name": {
         "yue-Hant-HK": "金斑蝶",
         "zh-Hant": "金斑蝶",
@@ -155,7 +155,7 @@
       "order": 5,
       "emoji": "🦟",
       "view": "3d",
-      "anatomy": "dragonfly",
+      "anatomy": "scan",
       "name": {
         "yue-Hant-HK": "紅蜻蜓",
         "zh-Hant": "紅蜻蜓",
@@ -284,7 +284,7 @@
       "order": 9,
       "emoji": "🕊️",
       "view": "3d",
-      "anatomy": "spotted-dove",
+      "anatomy": "scan",
       "name": {
         "yue-Hant-HK": "珠頸斑鳩",
         "zh-Hant": "珠頸斑鳩",
