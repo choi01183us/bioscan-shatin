@@ -29,22 +29,8 @@
     "holdToSpeak": "Hold to speak",
     "loading": "Loading",
     "wellDone": "Well done!",
-    "nextStructure": "Next part",
     "notProvided": "not in this model yet",
     "gotIt": "Got it!"
-  },
-  "modes": {
-    "exterior": "Outside",
-    "xray": "X-ray shell",
-    "layer": "Body layers",
-    "exploded": "Take apart"
-  },
-  "anatomy": {
-    "prosoma": "Head shield",
-    "opisthosoma": "Abdomen",
-    "telson": "Tail spine",
-    "legs": "Legs",
-    "bookGill": "Book gills"
   },
   "tasks": [
     {

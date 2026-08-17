@@ -29,23 +29,8 @@
     "holdToSpeak": "㩒住講嘢",
     "loading": "載入中",
     "wellDone": "做得好！",
-    "nextStructure": "下一個部位",
     "notProvided": "此資產尚未提供",
     "gotIt": "明白喇！"
-  },
-  "modes": {
-    "exterior": "外觀",
-    "xray": "透視外殼",
-    "layer": "構造層",
-    "exploded": "分解展示"
-  },
-  "anatomy": {
-    "head": "頭",
-    "eye": "眼",
-    "beak": "嘴",
-    "wing": "翅膀",
-    "tail": "尾",
-    "leg": "腳"
   },
   "tasks": [
     {

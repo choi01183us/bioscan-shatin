@@ -29,17 +29,9 @@
     "holdToSpeak": "按住說話",
     "loading": "載入中",
     "wellDone": "做得好！",
-    "nextStructure": "下一個構造",
     "notProvided": "此資產尚未提供",
     "gotIt": "明白了！"
   },
-  "modes": {
-    "exterior": "外觀",
-    "xray": "透視外殼",
-    "layer": "構造層",
-    "exploded": "分解展示"
-  },
-  "anatomy": {},
   "tasks": [
     {
       "id": "look-horn",

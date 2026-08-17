@@ -29,23 +29,8 @@
     "holdToSpeak": "Hold to speak",
     "loading": "Loading",
     "wellDone": "Well done!",
-    "nextStructure": "Next part",
     "notProvided": "not in this illustration yet",
     "gotIt": "Got it!"
-  },
-  "modes": {
-    "exterior": "Outside",
-    "xray": "X-ray shell",
-    "layer": "Body layers",
-    "exploded": "Take apart"
-  },
-  "anatomy": {
-    "head": "Head",
-    "eye": "Eye",
-    "beak": "Beak",
-    "wing": "Wing",
-    "tail": "Tail",
-    "leg": "Leg"
   },
   "tasks": [
     {

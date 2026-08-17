@@ -29,22 +29,8 @@
     "holdToSpeak": "㩒住講嘢",
     "loading": "載入中",
     "wellDone": "做得好！",
-    "nextStructure": "下一個構造",
     "notProvided": "此資產尚未提供",
     "gotIt": "明白喇！"
-  },
-  "modes": {
-    "exterior": "外觀",
-    "xray": "透視外殼",
-    "layer": "構造層",
-    "exploded": "分解展示"
-  },
-  "anatomy": {
-    "prosoma": "頭胸甲",
-    "opisthosoma": "腹甲",
-    "telson": "尾劍",
-    "legs": "步足",
-    "bookGill": "書鰓"
   },
   "tasks": [
     {

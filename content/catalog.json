@@ -6,7 +6,6 @@
       "emoji": "🪲",
       "view": "3d",
       "model": "assets/models/xylotrupes_gideon.glb",
-      "anatomy": "scan",
       "name": {
         "yue-Hant-HK": "姬兜",
         "zh-Hant": "姬兜",
@@ -28,7 +27,6 @@
       "emoji": "🦀",
       "view": "3d",
       "model": "assets/models/tachypleus_anatomy_sample.glb",
-      "anatomy": "horseshoe-crab",
       "name": {
         "yue-Hant-HK": "中國鱟",
         "zh-Hant": "中國鱟",
@@ -70,7 +68,6 @@
       "order": 3,
       "emoji": "🦋",
       "view": "3d",
-      "anatomy": "scan",
       "name": {
         "yue-Hant-HK": "金斑蝶",
         "zh-Hant": "金斑蝶",
@@ -113,7 +110,6 @@
       "emoji": "🐍",
       "view": "2d",
       "illustration": "assets/illustrations/green-snake.svg",
-      "anatomy": "green-snake",
       "name": {
         "yue-Hant-HK": "翠青蛇",
         "zh-Hant": "翠青蛇",
@@ -155,7 +151,6 @@
       "order": 5,
       "emoji": "🦟",
       "view": "3d",
-      "anatomy": "scan",
       "name": {
         "yue-Hant-HK": "紅蜻蜓",
         "zh-Hant": "紅蜻蜓",
@@ -198,7 +193,6 @@
       "emoji": "🦋",
       "view": "3d",
       "model": "assets/models/papilio_polytes.glb",
-      "anatomy": "common-mormon",
       "name": {
         "yue-Hant-HK": "玉帶鳳蝶",
         "zh-Hant": "玉帶鳳蝶",
@@ -220,7 +214,6 @@
       "emoji": "🐟",
       "view": "3d",
       "model": "assets/models/mugil_cephalus.glb",
-      "anatomy": "grey-mullet",
       "name": {
         "yue-Hant-HK": "烏頭",
         "zh-Hant": "烏頭",
@@ -242,7 +235,6 @@
       "emoji": "🐦",
       "view": "2d",
       "illustration": "assets/illustrations/bulbul.svg",
-      "anatomy": "bulbul",
       "name": {
         "yue-Hant-HK": "白頭鵯",
         "zh-Hant": "白頭鵯",
@@ -284,7 +276,6 @@
       "order": 9,
       "emoji": "🕊️",
       "view": "3d",
-      "anatomy": "scan",
       "name": {
         "yue-Hant-HK": "珠頸斑鳩",
         "zh-Hant": "珠頸斑鳩",
@@ -327,7 +318,6 @@
       "emoji": "🦗",
       "view": "3d",
       "model": "assets/models/hierodula_patellifera.glb",
-      "anatomy": "mantis",
       "name": {
         "yue-Hant-HK": "廣斧螳",
         "zh-Hant": "廣斧螳",
@@ -349,7 +339,6 @@
       "emoji": "🪳",
       "view": "3d",
       "model": "assets/models/gryllotalpa_orientalis.glb",
-      "anatomy": "mole-cricket",
       "name": {
         "yue-Hant-HK": "東方螻蛄",
         "zh-Hant": "東方螻蛄",
@@ -371,7 +360,6 @@
       "emoji": "🦋",
       "view": "3d",
       "model": "assets/models/graphium_sarpedon.glb",
-      "anatomy": "bluebottle",
       "name": {
         "yue-Hant-HK": "青鳳蝶",
         "zh-Hant": "青鳳蝶",
@@ -393,7 +381,6 @@
       "emoji": "🦋",
       "view": "3d",
       "model": "assets/models/papilio_xuthus.glb",
-      "anatomy": "swallowtail",
       "name": {
         "yue-Hant-HK": "柑橘鳳蝶",
         "zh-Hant": "柑橘鳳蝶",
@@ -415,7 +402,6 @@
       "emoji": "🌍",
       "view": "3d",
       "model": "assets/models/pantala_flavescens.glb",
-      "anatomy": "globe-skimmer",
       "name": {
         "yue-Hant-HK": "黃蜻",
         "zh-Hant": "黃蜻",
@@ -437,7 +423,6 @@
       "emoji": "🦈",
       "view": "3d",
       "model": "assets/models/sphyrna_lewini.glb",
-      "anatomy": "scalloped-hammerhead",
       "name": {
         "yue-Hant-HK": "路氏雙髻鯊",
         "zh-Hant": "路氏雙髻鯊",
@@ -459,7 +444,6 @@
       "emoji": "🦈",
       "view": "3d",
       "model": "assets/models/sphyrna_zygaena.glb",
-      "anatomy": "smooth-hammerhead",
       "name": {
         "yue-Hant-HK": "錘頭雙髻鯊",
         "zh-Hant": "錘頭雙髻鯊",
@@ -481,7 +465,6 @@
       "emoji": "🦈",
       "view": "3d",
       "model": "assets/models/mustelus_griseus.glb",
-      "anatomy": "smooth-hound",
       "name": {
         "yue-Hant-HK": "灰星鯊",
         "zh-Hant": "灰星鯊",
@@ -503,7 +486,6 @@
       "emoji": "🐟",
       "view": "3d",
       "model": "assets/models/periophthalmus_modestus.glb",
-      "anatomy": "mudskipper",
       "name": {
         "yue-Hant-HK": "彈塗魚",
         "zh-Hant": "彈塗魚",
@@ -525,7 +507,6 @@
       "emoji": "🦀",
       "view": "3d",
       "model": "assets/models/scylla_serrata_male.glb",
-      "anatomy": "mangrove-crab-male",
       "name": {
         "yue-Hant-HK": "青蟹（公）",
         "zh-Hant": "青蟹（雄）",
@@ -547,7 +528,6 @@
       "emoji": "🦀",
       "view": "3d",
       "model": "assets/models/scylla_serrata_female.glb",
-      "anatomy": "mangrove-crab-female",
       "name": {
         "yue-Hant-HK": "青蟹（乸）",
         "zh-Hant": "青蟹（雌）",
@@ -569,7 +549,6 @@
       "emoji": "🐚",
       "view": "3d",
       "model": "assets/models/thais_clavigera.glb",
-      "anatomy": "rock-snail",
       "name": {
         "yue-Hant-HK": "疣荔枝螺",
         "zh-Hant": "疣荔枝螺",
@@ -591,7 +570,6 @@
       "emoji": "🐙",
       "view": "3d",
       "model": "assets/models/octopus_ocellatus.glb",
-      "anatomy": "octopus",
       "name": {
         "yue-Hant-HK": "短蛸",
         "zh-Hant": "短蛸",
